@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/blended-tea-collection.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2019-05-09T16:59:14-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9181081988</id>
+    <published>2019-05-09T16:59:14-04:00</published>
+    <updated>2019-05-09T16:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/english-breakfast-tea"/>
+    <title>English Breakfast Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/English_Breakfast_Tea.jpg?v=1527704868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 88.00
+            <a href="https://www.imperialteagarden.com/products/english-breakfast-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Great Britain is forever steeped in tea history.  Consider the events of the Boston Tea Party and the American Revolution, the Opium Wars, the clipper ship races from Fuzchou, China to Portsmouth UK, the Earl of Grey, and of course the English breakfast tradition. This is a blend of high mountain grown Ceylon tea from the regions of Nuwara Eliya, Dumbala, and Uva. English Breakfast tea is full bodied without being overpowering.</span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Sri Lanka, Kenya &amp; India</p>
+<p>Grade:  FP (Flowery Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics: A perfect breakfast tea with good body and full tea flavor notes. Coppery bright–especially enticing with milk.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181081988</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>400300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181081988</id>
+      <title>3.25 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>400300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181081988</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">13.75</s:price>
+      <s:sku>400300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181081988</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>400300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181081988</id>
+      <title>3.5 Lb. Bag</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>400WHSL</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253837188</id>
+    <published>2017-12-01T10:30:00-05:00</published>
+    <updated>2017-12-01T10:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/strawberry-kiwi"/>
+    <title>Strawberry Kiwi</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Strawberry_Kiwi.jpg?v=1527704917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/strawberry-kiwi">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Strawberry Kiwi is a blend of dried herbs and fruit from Canada, United States, Thailand, and Spain.  This herb and fruit beverage has a down under appeal  with natural tartness that offers a bold and refreshing flavor.  Sweeten with sugar to bring out an even bolder flavor.  </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Grade #1 Herb &amp; Fruit Pieces</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended.  Blend of air, sun and machine dried herbs and fruits</p>
+<p>Characteristics:  Bold strawberry kiwi flavor, tart, full bodied</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253837188</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>850300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253837188</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>850300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253837188</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>850300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253837188</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>850300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254207620</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/baja-iced-tea"/>
+    <title>Baja Iced Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Baja_Iced_Tea.jpg?v=1527704852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 86.00
+            <a href="https://www.imperialteagarden.com/products/baja-iced-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Baja Iced Tea blend is the crown jewel of all natural select tea leaves, carefully blended to consummate the perfect iced tea.  No Additives or Preservatives. Simply the best iced tea available.  Characteristic smoothness from a Chinese black tea, harmoniously blended with the malty characteristics of a premium black tea from India.  This product contains </span><a href="http://www.imperialteagarden.com/greenteacaffeine.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">caffeine</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">.<br></span></span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Sri Lanka &amp; Anhui Province China</p>
+<p>Grade:  FOP (Flowery Orange Pekoe)</p>
+<p>Altitude: 1500 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  Cup has burgundy depth and malty highlights. A thirst quenching finish</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Iced Tea Collection</s:tag>
+    <s:tag>India</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>901300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>3.2 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>901300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>901300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>901300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>4 Lb. Bag</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>901WHSL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254166404</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/kama-sutra-chai"/>
+    <title>Kama Sutra Chai</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Kama_Sutra_Chai.jpg?v=1527704886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 80.00
+            <a href="https://www.imperialteagarden.com/products/kama-sutra-chai">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Kama Sutra Chai is an exotic blend of black tea and select herbs that appeals to the senses.  Ginger root, cardamom, coriander, cinnamon, clove, black pepper, rose petal, lavender, and jasmine buds round out this exotic blend of tea and spice.  Only high mountain grown </span></span><a href="http://www.imperialteagarden.com/Black_Tea.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">black tea</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> from India is used for Kama Sutra Chai tea.  Lift your spirits with this exciting blend of tea, herbs, and spice.</span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Assam &amp; Kerala India</p>
+<p>Grade: BP (Broken Pekoe)</p>
+<p>Altitude: 500 - 1500 feet above sea level</p>
+<p>Manufacture Type: CTC (Cut, Torn and Curled) &amp; Orthodox (Traditional leafy)</p>
+<p>Characteristics:  Penetrating depth with a full flavored cup exuding sensuous floral and saucy spice notes</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Chai</s:tag>
+    <s:tag>India</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254166404</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>962300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254166404</id>
+      <title>4 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>962300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254166404</id>
+      <title>4.4 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>962300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254166404</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>962300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254166404</id>
+      <title>4 Lb. Bag</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>962WHSL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254128452</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/green-tea-mint"/>
+    <title>Green Tea and Mint</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Green_Tea_Mint.jpg?v=1542219960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 26.00
+            <a href="https://www.imperialteagarden.com/products/green-tea-mint">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Green Tea with mint is a blend of Chinese green tea and Washington grown spearmint.  A delicious and healthy green tea beverage that can be enjoyed by everyone.  Try adding freshly cut Ginger root to add a little extra Zing or pour over ice for a deliciously cool summer beverage!</span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China / Washington State USA</p>
+<p>Grade:  Special Chunmee Grade #1/Whole Leaf, Cut (2nd Cut – best cut) and Sifted</p>
+<p>Altitude: 1500 - 4500 feet above sea level/ 900 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, traditional process, Small batch crafted/Field grown, sun dried, machine milled</p>
+<p>Characteristics: Delicate flavor with toasty notes combined with a fresh minty overtone.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>940300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>940300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>940300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>940300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254079940</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/green-tea-with-ginseng"/>
+    <title>Green Tea with Ginseng</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/GT_Ginseng.jpg?v=1527704876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 29.00
+            <a href="https://www.imperialteagarden.com/products/green-tea-with-ginseng">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Green tea with ginseng is a blend of Chinese green tea and Siberian ginseng root.  Two of the most healthy plants known are combined into one delicious beverage.  Enjoy the comfort of knowing that you are supplying your body with healthy nutrients and antioxidants needed to sustain good health.  <a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Enjoy the health benefits from one of our green teas">Green tea</a> is known for its high level of antioxidants that are finally becoming accepted in western health practices.  Siberian ginseng is also well known for its health benefits throughout the far east as a panacea.  ginseng allows the body to better cope with stress and resist fatigue when taken for a period of six weeks or more.  Try green tea with ginseng and rejuvenate yourself.  </span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Special Chunmee Grade #1 with &amp; Organic Eleuthero Root Ginseng</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, traditional process, Small batch crafted.</p>
+<p>Characteristics: Full bodied, delicate flavor with toasty notes. Mellow smokiness lending to sweet tobacco or plum character.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste</span>.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>930300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>930300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>5 oz. Tin</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>930300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>930300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253886084</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/black-tea-with-ginseng"/>
+    <title>Black Tea with Ginseng</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Black_Tea_Ginseng.jpg?v=1527704853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 28.00
+            <a href="https://www.imperialteagarden.com/products/black-tea-with-ginseng">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: 18px; line-height: 22px;">Black tea with ginseng is a blend of Chinese black tea and Siberian ginseng root.  Two of the most healthy plants known are combined into one delicious beverage.  Enjoy the comfort of knowing that you are supplying your body with healthy nutrients and antioxidants needed to sustain good health.  Black tea is known for its high level of antioxidants.  Siberian ginseng is a well known panacea throughout the far east and praised for its health benefits.  ginseng allows the body to better cope with stress and resist fatigue when taken for a period of six weeks or more.  Try Black tea with ginseng and rejuvenate yourself. </span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  China</p>
+<p>Grade:  FOP (Flowery Orange Pekoe) Black Tea &amp; Organic Eleuthero Root Ginseng</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics: Excellent fullness with subtle China sweetness </p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste</span>.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253886084</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>920300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253886084</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>920300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253886084</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>920300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253886084</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>920300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253808132</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/cranberry-apple"/>
+    <title>Cranberry Apple</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Cranberry_Apple.jpg?v=1527704860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 68.00
+            <a href="https://www.imperialteagarden.com/products/cranberry-apple">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Cranberry Apple is a delicious blend of dried fruits and herbs from the United States, Canada, Thailand, and Spain.  This herb and fruit beverage consists of hibiscus petals, rose hips, dried pieces of apple and orange peel, and natural cranberry flavor.  This tea has a bold cranberry tartness, softened by hints of apple and orange.  This refreshing beverage has no caffeine and can be enjoyed hot or cold.  </span></span></span></span>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Herb &amp; Fruit</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended</p>
+<p>Characteristics: Full flavored and pungent with a rich fruity character.  Add a cinnamon stick or a few cloves for an exotic mulled spiced tea</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253808132</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>840300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253808132</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>840300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253808132</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>840300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253808132</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>840300t-4</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253808132</id>
+      <title>3 Lb. Bag</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>840WHSL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253789252</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/very-berry"/>
+    <title>Very Berry</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Verry_Berry.jpg?v=1527704921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/very-berry">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Very Berry is a delicious blend of dried fruits and herbs from the United States, Canada, Thailand, and Spain.  This herb and fruit beverage consists of hibiscus petals, raisins, rose hips, black and red currants, and natural flavor to produce a bold berry tartness.  Sweeten with sugar to bring out an even bolder flavor.  Try adding a few cloves and cinnamon sticks; simmer, then add some red wine for a mulled wine that's perfect for snuggling up to a warm fire.  </span></span></span>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Herb &amp; Fruit</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended</p>
+<p>Characteristics:  A full flavored tea with deep berry notes. The infused cup is burgundy red and provides strength and character. A terrific tasting herbal tea.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253789252</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>830300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253789252</id>
+      <title>4 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>830300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253789252</id>
+      <title>6 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>830300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253789252</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>830300t-4</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253744196</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/orange-pineapple"/>
+    <title>Orange Pineapple</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Orange_Pineapple.jpg?v=1527704899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/orange-pineapple">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: 16px; line-height: 19px;"><span style="font-size: large;" size="4"><span style="font-size: large;" size="4"><span style="font-size: large;" size="4">Orange Pineapple is a blend of dried herbs and fruit from Canada, United States, Thailand, and Spain.  This tea has an exotic Caribbean flavor that's hard to beat.  The natural tartness offers a refreshing flavor. Sweeten with sugar to bring out an even bolder flavor.  If you want to impress your kids, try using popsicle forms and freeze slightly sweetened Orange Pineapple Herb &amp; Fruit tea.  They'll LOVE IT!  You can be assured that you're providing them with a healthy beverage that is high in vitamin C and naturally caffeine free.</span></span></span></span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Herb &amp; Fruit</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended</p>
+<p>Characteristics:  A predominant orange character with the lovely sweetness of pineapple.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253744196</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>820300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253744196</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>820300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253744196</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>820300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253744196</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>820300t-4</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253729668</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/lemon-mango"/>
+    <title>Lemon Mango</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Lemon_Mango.jpg?v=1527704890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/lemon-mango">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: 16px; line-height: 19px;"><span style="font-size: large;" size="4"><span style="font-size: large;" size="4">Lemon Mango is a blend of dried herbs and fruit from Canada, United States, Thailand, and Spain.  Delicious scents of lemon and mango fill the air as you savor this exotic blend.  The natural tartness offers a bold and refreshing flavor.  Sweeten with sugar to bring out an even bolder flavor.  If you want to impress your kids, use popsicle forms to freeze slightly sweetened Lemon Mango Herb &amp; Fruit tea.  They'll LOVE IT!  You can be assured that you're providing them with a healthy beverage that is high in vitamin C and naturally caffeine free. </span></span></span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Herb &amp; Fruit</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended</p>
+<p>Characteristics: Refreshing character of lemon and sweet tropical notes of mango.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253729668</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>810300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253729668</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>810300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253729668</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>810300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253729668</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>810300t-4</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9253701380</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/tropical-nights"/>
+    <title>Tropical Nights</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tropical_Nights.jpg?v=1527704920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/tropical-nights">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: 16px; line-height: 19px;"><span style="font-size: large;" size="4">Tropical Nights is a blend of dried herbs and fruit from Canada, United States, Thailand, and Spain.  Images of the South Pacific fill the air as you savor this blend of tropical fruit and berry flavors.  Sweeten with sugar to bring out an even bolder flavor.  If you want to impress your kids, try using popsicle forms and freeze slightly sweetened Tropical Nights Herb &amp; Fruit tea.  They'll LOVE IT!  You can be assured that you're providing them with a healthy beverage that is high in vitamin C and <br soft="">naturally caffeine free.</span></span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Ontario Canada / California USA / Sing Buri Thailand / Seville Spain</p>
+<p>Grade:  Herb &amp; Fruit</p>
+<p>Altitude: Various</p>
+<p>Manufacture Type:  Blended</p>
+<p>Characteristics:  A lovely blend of fruit, herbs and natural flavors.  Full bodied with a full red liquor and fruit intrigue.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 2 slightly heaping teaspoons of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Garnish and sweeten to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 12 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.<br></span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:tag>Iced Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253701380</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>800300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253701380</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>800300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253701380</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>800300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9253701380</id>
+      <title>1.5 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>800300t-4</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9252948420</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/chamomile-mint"/>
+    <title>Chamomile Mint</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Chamomile_Mint.jpg?v=1527704857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 21.00
+            <a href="https://www.imperialteagarden.com/products/chamomile-mint">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Chamomile is a sweet and fruity herb that has been used for centuries as a gentle calming tonic.  We combined Egyptian chamomile with the best organic Washington grown mint to make a delicious herbal tea that soothes the nerves and digestive system.  Chamomile and mint are herbs, and therefore, naturally caffeine free.  Enjoy a cup after dinner, before bedtime, or any time you just want to relax and let your worries fade away.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Nile River Delta Egypy &amp; Washington State USA</p>
+<p>Grade:  1st Grade</p>
+<p>Altitude: 1 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Field grown, sun dried.</p>
+<p>Characteristics:  Full flavored and refreshing with mint highlights. Delightful lingering finish</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9252948420</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>740300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9252948420</id>
+      <title>1 oz. Pouch</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>740300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9252948420</id>
+      <title>1.5 oz. Tin</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>740300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9252948420</id>
+      <title>1/2 lb. Foil Bag</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>740300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9251928708</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/dream-right"/>
+    <title>Dream Right®</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Dream_Right.jpg?v=1527704865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 20.00
+            <a href="https://www.imperialteagarden.com/products/dream-right">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div><span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Dream Right herb tea is for those individuals who suffer from chronic insomnia or hyper activity and cannot get a good nights rest.  This proprietary blend of herbs is specifically blended to achieve results using all natural herbs without the addition of chemicals or additives. This tea contains:  spearmint, peppermint, chamomile, Valerian root, kava kava, hibiscus flowers, lemon balm, lemon grass hops, and lavender flowers. The minty flavor is a wonderful way to relax and enjoy a soothing night cap.<br><br>Caution:  This product may cause drowsiness and inhibit your ability to operate motor vehicles or machinery.  Only drink this herbal tea at night.  Please consult your physician before using any herbal products as they may have adverse reactions to medications and certain individuals.</span></span></span></span></div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Multi National</p>
+<p>Grade: Blended</p>
+<p>Altitude: 1 - 4000 feet above sea level</p>
+<p>Manufacture Type: Blended</p>
+<p>Characteristics: Dominant minty tea with soothing herbal hints</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br>Not recommended for Iced tea</span></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9251928708</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>770300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9251928708</id>
+      <title>1.5 oz. Pouch</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>770300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9251928708</id>
+      <title>2 oz. Tin</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>770300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9251928708</id>
+      <title>1/2 lb. Foil Bag</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>770300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9215076292</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/sleep-tight"/>
+    <title>Sleep Tight®</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Sleep_Tight.jpg?v=1527704911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            4.00 - 20.00
+            <a href="https://www.imperialteagarden.com/products/sleep-tight">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div><span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Sleep Tight herbal tea is for those individuals who suffer from chronic insomnia or hyper activity and cannot manage a good nights rest. This proprietary blend of herbs is specifically blended to achieve results using all natural herbs without the addition of chemicals or additives.  This herbal tea is caffeine free and contains:  chamomile, passion flower, lemon grass, valerian root, hawthorne berries, spearmint, gotu kola, ginger root, skullcap, hops and anise seeds.  A drop of honey makes this minty beverage a perfect soothing night Cap.  </span></span></span></div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Multi national</p>
+<p>Grade: Blended</p>
+<p>Altitude: 1 - 4000 feet above sea level</p>
+<p>Manufacture Type: Blended</p>
+<p>Characteristics: Dominant minty tea with soothing herbal hints</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br>Not recommended for Iced tea<br><span style="text-transform: uppercase; text-decoration: underline;"><br></span></span></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally caffeine free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9215076292</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>750300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9215076292</id>
+      <title>1.5 oz. Pouch</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>750300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9215076292</id>
+      <title>2 oz. Tin</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>750300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9215076292</id>
+      <title>1/2 lb. Foil Bag</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>750300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9214886660</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/lemon-rooibos"/>
+    <title>Lemon Rooibos</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Lemon_Rooibos.jpg?v=1527704891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            5.00 - 28.00
+            <a href="https://www.imperialteagarden.com/products/lemon-rooibos">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">For over 300 years, Rooibos has been the traditional drink of the indigenous people of Cape Town, South Africa.  The locals harvested the fine needles from wild "Aspalathus Linearis" plants on the slopes of the beautiful Cedarberg Mountains.  They believed this red tea had tremendous healing powers and was regarded as a "miracle tea."  It wasn't until the early 1900's, when commercial exploitation began, that news of this elixir of the mind and body spread. Each cup of Rooibos tea is high in antioxidants contains essential minerals such as Iron, Potassium, Calcium, Copper, Zinc, Magnesium, Manganese, Fluoride, and Sodium.  To give this wonderful herb a twist we've added Lemon grass, Calendula petals, and natural lemon flavor.  Lemon Rooibos is a naturally caffeine free herbal tea that is sweet and flavorful. </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Cederberg South Africa</p>
+<p>Grade:  Choice Grade #1</p>
+<p>Altitude: 1500 - 2500 feet above sea level</p>
+<p>Manufacture Type:  Traditional process rolled &amp; fermented</p>
+<p>Characteristics:  The lemon invigorates the fruity with sweet rooibos notes</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Herbal Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214886660</id>
+      <title>sample</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>710300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214886660</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>710300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214886660</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>710300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214886660</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>710300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9181048516</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/earl-grey"/>
+    <title>Earl Grey</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Earl_Grey.jpg?v=1527704867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 88.00
+            <a href="https://www.imperialteagarden.com/products/earl-grey">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Earl Grey is named after its English benefactor, Charles Earl Grey, who for a short time served as Prime Minister (1830 - 1834) under King William IV. The unusual flavoring that makes Earl Grey so special is the oil of Bergamot which comes from the pear shaped citrus grown throughout the Mediterranean. The oil is pressed from the rind and is used for perfume as well as great tasting Earl Grey tea.  The essence of this exotic flavor is blended with only premium high mountain grown Ceylon tea from Nuwara Eliya, Dimbula and Uva districts.  This flavored black tea is sure to delight your senses, and is the perfect accompaniment with cakes and pastries.</span></span></span>
+<div>
+<span class="text"><span style="font-size: medium;" size="3"><span style="font-size: 16px; line-height: 19px;"></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara, Dimbula &amp; UVA Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristic: flavorful and aromatic</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181048516</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>410300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181048516</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>410300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181048516</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>410300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181048516</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>410300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9181048516</id>
+      <title>3.5 Lb. Bag</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>410WHSL</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9180734532</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/lemon"/>
+    <title>Lemon</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Lemon.jpg?v=1527704889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/lemon">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Lemon flavored black tea is made from only high mountain grown tea from Sri Lanka. Formerly known as Ceylon, Sri Lanka has an undisputed reputation for producing high quality tea.  Dried lemon rind and natural lemon flavor is added for your convenience.  Try adding a dash of honey and pour over ice.</span></span></span>
+<div>
+<span class="text"><span style="font-size: medium;" size="3"><span style="font-size: 16px; line-height: 19px;"></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Dimbula, &amp; Uva Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics: Fresh lemon character that cleanses the palate the way only a lemon can.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180734532</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>420300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180734532</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>420300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180734532</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>420300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180734532</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>420300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9180686212</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/chocolate-chip"/>
+    <title>Chocolate Mint</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Chocolate_Mint.jpg?v=1527704858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/chocolate-chip">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Chocolate Mint flavored black tea is made from high mountain grown Ceylon tea.  Only teas from reputable estates more than 5500 feet above sea level are used in this flavored tea. Fresh lively mint combined with the full flavor of chocolate. Reminiscent of an after dinner mint. Decadence without the guilt. </span></span><span style="font-size: medium;" size="3"><span style="font-size: 16px; line-height: 19px;"></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Dimbula, &amp; Uva Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  Fresh lovely mint combined with full flavored chocolate tea that is wonderfully reminiscent of an after-dinner mint.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180686212</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>430300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180686212</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>430300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180686212</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>430300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180686212</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>430300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9180678724</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/monks-blend"/>
+    <title>Monk&apos;s Blend</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Monks_Blend.jpg?v=1527704895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/monks-blend">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4"><span style="font-size: large;" size="4">Monk's Blend black tea is a dramatic combination of vanilla and grenadine that is stunning and satisfying.  This premium flavored tea is made from high mountain grown Ceylon black tea.  Only teas from reputable estates more than 5500 feet above sea level are chosen.  Enjoy a cup with your favorite pastry.</span></span></span></span></span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Dimbula, &amp; Uva Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 5500 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  A dramatic combination of vanilla and grenadine</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180678724</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>440300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180678724</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>440300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180678724</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>440300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180678724</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>440300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9180664516</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/maple"/>
+    <title>Maple</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Maple.jpg?v=1527704893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/maple">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> <span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Mornings will never be the same after trying our maple flavored black tea.  The aroma and flavor round out any breakfast.  Don't be surprised if you get the urge for hot cakes and sausage after brewing our maple flavored black tea</span></span></span></span></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Dimbula, &amp; Uva Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  Sweet with piquant caramel notes. A unique flavor that complements high grown tea very well.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180664516</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>450300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180664516</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>450300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180664516</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>450300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180664516</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>450300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9180587588</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/satsuma"/>
+    <title>Satsuma</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Satsuma.jpg?v=1527704908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/satsuma">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> <span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Satsuma Flavored black tea conjures up images of bygone days of ancient Japan, where Samurai, Geisha, and Emperors once ruled. Satsuma was the name of what is now known as the Kagoshima Prefecture on the southern tip of Kyushu Island.  This ancient kingdom is where the Satsuma, (Latin: Citrus reticulata) is believed to have originated.  Sometimes referred to as Satsuma Mandarin, or Satsuma Tangerine, this little fruit has been prized by the people who inhabited the region for centuries.  Orange Pekoe grade leaf from Sri lanka is flavored with natural oils and blended with Calendula petals, White Daisy, Lemon Balm, Cornflower petals, Dried Orange and Marigold for a bright and coppery cup.  This tea is equally delicious served hot or over ice for a truly remarkable </span></span><a href="http://www.imperialteagarden.com/IcedTea.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">iced tea</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">.</span></span></span></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Dimbula, &amp; Uva Sri Lanka</p>
+<p>Grade:  OP (Orange Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  A tea that is sprightly and alive with a bright cleansing cup.  Hints of lime and passion fruit perk up the finish.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Flavored Black Tea</s:tag>
+    <s:tag>Iced Tea Collection</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180587588</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>460300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180587588</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>460300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180587588</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>460300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9180587588</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>460300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9171865220</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/china-black-tea"/>
+    <title>China Black Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/China_Black.jpg?v=1527704857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 26.00
+            <a href="https://www.imperialteagarden.com/products/china-black-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> <span style="font-family: Arial; font-size: large;" size="4" face="Arial">This loose leaf tea is comprised of flowery orange pekoe from 16 different growing regions of central and southern China.  Don't be fooled by the low price.  Imperial Tea Garden buys large quantities of this exceptional tea and passes on those savings to you.  If you are new to tea, this is a good place to start defining your palate.  China Black tea is known for its smooth character and rich flavor.</span></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  China</p>
+<p>Grade:  FOP (Flowery Orange Pekoe)</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics: Excellent fullness with subtle China sweetness. </p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste</span>.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171865220</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>200300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171865220</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>200300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171865220</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>200300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171865220</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>200300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9171838084</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/market-spice"/>
+    <title>Market Spice</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Market_Spice.jpg?v=1527704894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 28.00
+            <a href="https://www.imperialteagarden.com/products/market-spice">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> <span class="text"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Ceylon market spice is a tea for those who are daring and looking for something a little different.  The select leaves are only high mountain grown so quality is assured.  The taste and aroma excite the senses with each sip.  The blend of cloves and cinnamon compliment each others distinct taste and aroma. </span></span></span></span></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Sri Lanka</p>
+<p>Grade:  FOP (Flowery Orange Pekoe)</p>
+<p>Altitude: 3500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Blended Orthodox (Traditional Leafy)</p>
+<p>Characteristics: A perfect blend quality high mountain grown tea and cinnamon and clove to heighten the senses.</p>
+<p> </p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br> Not Recommended for Iced Tea</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>meta-related-collection-black-tea</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171838084</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>130300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171838084</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>130300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171838084</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>130300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9171838084</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>130300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+</feed>

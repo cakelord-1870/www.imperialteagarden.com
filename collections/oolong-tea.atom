@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/oolong-tea.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2016-10-04T19:17:00-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9193797252</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/orange-blossom-oolong"/>
+    <title>Orange Blossom Oolong</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Orange_Blossom_Oolong.jpg?v=1527704898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            4.00 - 85.00
+            <a href="https://www.imperialteagarden.com/products/orange-blossom-oolong">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Orange Blossom is a blend of oolong teas from Taiwan, Sri Lanka and India. This loose leaf tea is combined with jasmine petals, fruit peel and natural flavors giving it a light, airy character with delicate orange flavor. This is an excellent beverage with morning toast and marmalade.  The aroma will leave others wondering what's in your cup, so make enough to share.  Orange Blossom oolong tea also makes a refreshing and exotic </span></span><a href="http://www.imperialteagarden.com/IcedTea.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">iced tea</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Nuwara Eliya/Dimbula/Uva Sri Lanka, Darjeeling/Nilgiri India, Fujian Province China</p>
+<p>Grade:  FO (Flowery Oolong)</p>
+<p>Altitude: 1500 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted</p>
+<p>Characteristics:  Wildly exotic. Toasty roundness with fruity jasmine notes. Stunning as an iced tea.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea Collection</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:tag>Taiwan</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9193797252</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>620300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9193797252</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>620300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9193797252</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>620300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9193797252</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>620300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9193797252</id>
+      <title>4 Lb. Bag</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>620WHSL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9191302660</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/spring-pouchong"/>
+    <title>Spring Pouchong</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Spring_Pouchong_Oolong.jpg?v=1527704915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            7.00 - 115.00
+            <a href="https://www.imperialteagarden.com/products/spring-pouchong">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Oolong tea has long become a skill handed down from generation to generation. Spring pouchong is no exception.  This hand crafted tea has full flavor and plenty of body.  The deep green leaves produce a beautiful jade liquor that yields subtle flavor and aroma, followed by a sweet aftertaste.   Use sparingly, as each leaf unfurls to its original form. </span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nantou County Taiwan</p>
+<p>Grade:  Pouchong Spring Select</p>
+<p>Altitude: 2500 - 6000 feet above sea level</p>
+<p>Manufacture Type:  Traditional small batch crafted,Semi oxidized, formed and sorted</p>
+<p>Characteristics:  This tea is fresh and lively with a light astringent finish.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191302660</id>
+      <title>sample</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>616300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191302660</id>
+      <title>1.75 oz. Pouch</title>
+      <s:price currency="USD">20.50</s:price>
+      <s:sku>616300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191302660</id>
+      <title>2 oz. Tin</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>616300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191302660</id>
+      <title>3/4 lb. Bag</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>616300t-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9191279940</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/blue-spring-oolong"/>
+    <title>Blue Spring Oolong</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Blue_Spring_Oolong.jpg?v=1527704854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/blue-spring-oolong">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">In rural China, Blue Spring Oolong is commonly referred to as the compassionate </span><a href="http://www.imperialteagarden.com/Oolong_Tea.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">oolong tea</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">.  The name stems from ancient folklore of Guan Yin the </span><a href="http://www.imperialteagarden.com/Ti_Kuan_Yin.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Iron Goddess </span></a><a href="http://www.imperialteagarden.com/Ti_Kuan_Yin.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">of </span></a><a href="http://www.imperialteagarden.com/Ti_Kuan_Yin.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Mercy</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">, of which this now famous </span><a href="http://www.imperialteagarden.com/Ti_Kuan_Yin.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Ti Kuan Yin</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"> style tea was named.  Legend has it that drought stricken villagers offered a passing stranger some water.  With the compassionate offering, Guan Yin  revealed her true identity and spilled the water into the dry earth and a blue spring appeared miraculously.  In honor of their benevolent Bodhisattva, the Fujian villagers began adding blue mallow flowers to represent the crystal blue spring water. Blue Spring Oolong's smooth and mellow character will enhance any tea party. The compassionate nature of this tea make it suitable for gathering with old friends and making new ones.</span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Ti Kuan Yin Special</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted and formed</p>
+<p>Characteristics:  An imperial favorite. Hand selected Ti Kuan Yin Oolong layers notes of orchid, baking bread and faint wine. Rare.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191279940</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>614300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191279940</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>614300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191279940</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>614300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191279940</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>614300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9191233924</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/ti-kuan-yin"/>
+    <title>Ti Kuan Yin</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Ti_Kuan_Yin_Oolong.jpg?v=1527704918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            4.00 - 36.00
+            <a href="https://www.imperialteagarden.com/products/ti-kuan-yin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Ti Kuan Yin , also known as the Iron Goddess of Mercy, is a premium grade oolong tea from the Wuyi Mountains in the Fujian Province of China.  Special care is taken when preparing this quality oolong tea.  The harvested leaves are wilted in the sun, then shaken in tubular bamboo baskets to bruise the leaf edges causing the edges to oxidize faster than in the center.  After about 20-25 <br soft="">minutes of this labor intensive process, the tea leaves are fired to halt the oxidization process and seal in the unique oolong tea flavor profile.  Ti Kuan Yin is light and airy with orchid-like hints.  The sweet flavor is complimented by a fragrant finish.  This is an oolong tea you won't forget.</span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Ti Kuan Yin Special</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted and formed</p>
+<p>Characteristics:  A distinctive light cup that has hints of orchid-like flavor</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191233924</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>615300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191233924</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>615300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191233924</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>615300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191233924</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>615300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9191148100</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/hunan-red-oolong-tea"/>
+    <title>Hunan Red Oolong Tea</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Hunan_Red.jpg?v=1527704881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            7.00 - 86.00
+            <a href="https://www.imperialteagarden.com/products/hunan-red-oolong-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;">Hunan Red Oolong is a full leaf oolong tea from the Hunan Provence of China that boasts bold toasty notes with full bodied character ending with a light smooth finish.  The infusion is red as one would expect from a classic luxury Hunan Red </span></span><a href="http://www.imperialteagarden.com/Oolong_Tea.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;">O</span></span></a><a href="http://www.imperialteagarden.com/Oolong_Tea.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;">olong tea</span></span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;">. Steeped in legend and lore, this soft and subtle Hunan Red Oolong provides a unique tea drinking experience that everyone can enjoy.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Full leaf Oolong</p>
+<p>Altitude: 1500 - 3000 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted and formed</p>
+<p>Characteristics:  Hauntingly piquant with toasty flavor notes. Very stylish leaf. Full bodied with reddish cup and infusion.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191148100</id>
+      <title>sample</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>617300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191148100</id>
+      <title>2 oz. Pouch</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>617300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191148100</id>
+      <title>2.5 oz. Tin</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>617300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9191148100</id>
+      <title>3/4 lb. Foil Bag</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>617300t-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9190881540</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/se-chung"/>
+    <title>Se Chung</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Se_Chung_Oolong.jpg?v=1527704909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            4.00 - 30.00
+            <a href="https://www.imperialteagarden.com/products/se-chung">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing</a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">The best Chinese oolong teas come from the Wuyi Mountains in the Fujian Province.  This area is regarded as the "birthplace" of oolong tea. The oolong process begins similar to black tea, but the leaves are given a much shorter withering period.  The leaves are given a light roll, and allowed to oxidize only until the edges start to brown.  The tea is then fired which arrests the oxidization process and captures the interesting character associated with oolong tea.  Se Chung Oolong tea has a shorter fermentation time and therefore is categorized as a "green style" oolong tea.  Se Chung has a green and herbaceous flavor with fruity characteristics.  </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Se Chung Grade #1</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted and formed</p>
+<p>Characteristics:  Smooth cup with exotic flavor and depth</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190881540</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>610300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190881540</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>610300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190881540</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>610300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190881540</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>610300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9190618500</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/formosa-oolong-tea"/>
+    <title>Formosa Oolong Tea</title>
+    <s:type>Oolong Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Formosa_Oolong.jpg?v=1527704870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Oolong Tea<br>
+        <strong>Price: </strong>
+            4.00 - 100.00
+            <a href="https://www.imperialteagarden.com/products/formosa-oolong-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">In Taiwan, the making of oolong tea is regarded as an art form where the style and dedication of the grower is passed down through generations. Producing oolong tea involves highly specialized skills to control the withering, oxidation, and firing process.  A slight variance in any of these variables can greatly affect aroma, flavor, color or finish.  This tea is a long fired "amber style" tea which gives it a roasted character. </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Taoyuan County Taipei</p>
+<p>Grade:  Choice Fine #1</p>
+<p>Altitude: 1000 - 3000 feet above sea level</p>
+<p>Manufacture Type:  Semi oxidized Traditional process small batch crafted</p>
+<p>Characteristics:  Smooth and slightly sweet; toasty with a touch of dryness.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formosa</s:tag>
+    <s:tag>Oolong Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190618500</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>600300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190618500</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>600300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190618500</id>
+      <title>3 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>6000300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190618500</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>600300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9190618500</id>
+      <title>3 Lb. Bag</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>600WHSL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

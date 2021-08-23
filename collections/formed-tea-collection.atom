@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/formed-tea-collection.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2020-05-12T10:46:39-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9289170564</id>
+    <published>2020-05-12T10:46:39-04:00</published>
+    <updated>2020-05-12T10:46:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/half-brick-black-tea"/>
+    <title>Small Brick Black Tea</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Half_Black_Front.jpg?v=1527704912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED BLACK TEA BRICKS<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hubei Province China</p>
+<p>Grade: Compressed Brick Tea</p>
+<p>Altitude: 2000 - 4000 feet above sea level</p>
+<p>Manufacture Type:  Compressed</p>
+<p>Characteristics: Full bodied with slight must notes. Generally used as a display piece.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9289170564</id>
+      <title>Small Black Tea Brick</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>HB500BLACK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9289209348</id>
+    <published>2018-08-21T01:34:40-04:00</published>
+    <updated>2018-08-21T01:34:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/small-brick-green-tea"/>
+    <title>Small Brick Green Tea</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/HalfGreenBrick-248x159.jpeg?v=1527704913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED GREEN TEA BRICKS<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Hubei Province China</p>
+<p>Grade: Compressed Brick Tea</p>
+<p>Altitude: 2000 - 4000 feet above sea level</p>
+<p>Manufacture Type: Compressed</p>
+<p>Characteristics: Mild green tea character. Lightly vegetative with a smooth finish Generally used as a display piece.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9289209348</id>
+      <title>Small Green Tea Brick</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>HB500GREEN</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9289682436</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/puerhwht"/>
+    <title>White Tea Pu-erh Cake</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/White_Puerh_1.jpg?v=1527704924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED WHITE TEA Pu-Erh Cake<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>100% compressed black tea<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p>Use 1-2 tsp of tea per 10 fluid ounces of water<br>Use water that is 200 F/93 C<br>Steeped 1-3 minutes<br>Repeat steeping up to 3 times<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ HIGH <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9289682436</id>
+      <title>400 Gram Cake</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>puerhwht</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9289378756</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/pu-erh-beeng-cha"/>
+    <title>Pu-Erh Beeng Cha</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Beeng_Cha_1.jpg?v=1527704906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED Pu-erh Tea Cake<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>100% compressed black tea<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p>Use 1-2 tsp of tea per 10 fluid ounces of water<br>Use water that is 200 F/93 C<br>Steeped 1-3 minutes<br>Repeat steeping up to 3 times<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9289378756</id>
+      <title>Pu-Erh Beeng Cha</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Beengcha</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9289067140</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/full-brick-green-tea"/>
+    <title>Full Brick Green Tea</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Full_Green_Tea_Brick_0798a32e-2baa-4f4d-9429-610643508a45.JPG?v=1527704872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED GREEN TEA BRICKS<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Hubei Province China</p>
+<p>Grade: Compressed Brick Tea</p>
+<p>Altitude: 2000 - 4000 feet above sea level</p>
+<p>Manufacture Type: Compressed</p>
+<p>Characteristics: Mild green tea character. Lightly vegetative with a smooth finish Generally used as a display piece.<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9289067140</id>
+      <title>Full Green Tea Brick</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>GREENBRICK1</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9280489284</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/full-brick-black-tea"/>
+    <title>Full Brick Black Tea</title>
+    <s:type>Formed Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Brick_Full.gif?v=1527704871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Formed Tea<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">FORMED BLACK TEA BRICKS<span style="color: #990099; font-size: large;" size="4" color="#990099"></span></span></span></span>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hubei Province China</p>
+<p>Grade: Compressed Brick Tea</p>
+<p>Altitude: 2000 - 4000 feet above sea level</p>
+<p>Manufacture Type:  Compressed</p>
+<p>Characteristics: Full bodied with slight must notes. Generally not used as a beverage</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formed Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9280489284</id>
+      <title>Full Black Tea Brick</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>BLACKBRICK1</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

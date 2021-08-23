@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/white-tea-collection.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2017-12-01T10:00:03-05:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9063469124</id>
+    <published>2017-12-01T10:00:03-05:00</published>
+    <updated>2017-12-01T10:00:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/100-monkeys-white-tea"/>
+    <title>100 monkeys</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea2_003.jpg?v=1542219707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            10.00 - 275.00
+            <a href="https://www.imperialteagarden.com/products/100-monkeys-white-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<p><span class="text"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: 18px; line-height: 22px;">100 monkeys is a premium grade, loose leaf white tea from China. This rare and exotic white tea will leave even the most discriminating connoisseur with a smile. You will enjoy watching as the tea leaves unfurl and return to their original state. White tea is really a subclass of green tea, however, due to its recent acclaim, it has been given a class of its own.  The major distinction is that white tea is not mechanically processed.  </span></span></span></p>
+<p><span class="text"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: 18px; line-height: 22px;">Buds and select leaves are harvested and merely air dried. This minimal amount of processing can make white tea have up to three times more beneficial antioxidants than green or black tea.  100 Monkeys is our best selling white tea.</span></span></span></p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Mao Feng Monkey Tail</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics: Excellent new season flavor. The strength of the cup belies its white tea nature. White tea is acknowledged to be very high in polyphenols.</p>
+<div style="left: 928.767px; top: 555.093px; font-size: 16.6px; font-family: sans-serif;"></div>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p>HOT TEA BREWING:</p>
+<p>Use 1-2 tsp of tea per 10 fluid ounces of water<br>Use water that is 180 F/82 C<br>Steeped 1-3 minutes<br>Repeat steeping up to 3 times<br><br></p>
+<p><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher</span></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9063469124</id>
+      <title>sample</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>560300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9063469124</id>
+      <title>2 oz. Pouch</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>560300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9063469124</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>560300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9063469124</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>560300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9063469124</id>
+      <title>2 Lb. Bag</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>560WHSL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/11866364239</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/kenya-white-tea"/>
+    <title>Kenya Nandi Safari White Tea</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Kenya_Nandi_Safari.jpg?v=1527704888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            8.00 - 32.00
+            <a href="https://www.imperialteagarden.com/products/kenya-white-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>Tinderet tea estate is one of Kenya's most famous tea estates. Nandi Safari <a href="https://www.imperialteagarden.com/collections/white-tea-collection" title="Loose Leaf White Tea Collection | White Tea Health Benefits">white tea</a> is grown on bushes first planted in the mid 1950s. The estate quickly began winning awards for its product at local agricultural fairs. To this day, these wonderful bushes produce some of the finest teas in Kenya has to offer. On the nose the infusion is light, fresh and almost winy. The cup is likewise exceptionally fresh, laden with flavor and floral-like notes. Brew a pot and imagine yourself relaxing on the verandah of a hill station after a day spent witnessing the bewildering feast of color that is the Nandi hills – a spectacular white tea.<br><br>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:   Nandi Highlands - Kenya </p>
+<p>Grade:  Nyvasha White #1 Special</p>
+<p>Altitude: 5500 – 6500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Orthodox, Naturally withered and dried, Small batch crafted, Hand sorted.</p>
+<p>Characteristics: Exotic and fragrant characterized by its naturally sweet flavor. A dried white tea with exquisite flavor and goodness. The infusion is soft with light yellow highlights.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11866364239</id>
+      <title>sample</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>551300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11866364239</id>
+      <title>.75 oz. Pouch</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>551300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11866364239</id>
+      <title>1.25 oz. Tin</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>551300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11866364239</id>
+      <title>4.75 oz. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>551300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/11865844751</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/crested-crane-white-tea"/>
+    <title>Crested Crane White Tea</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Crested_Crane.jpg?v=1527704861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            4.00 - 30.00
+            <a href="https://www.imperialteagarden.com/products/crested-crane-white-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>Developed by innovative tea makers in the highlands west of Kenya’s Great Rift Valley, Crested Crane is an exquisite <a href="https://www.imperialteagarden.com/collections/white-tea-collection/products/pai-mu-tan" title="Pai Mu Tan Loose Leaf White Tea">Pai Mu Tan</a> style tea that pays homage to its namesake but does not have the typical <a href="https://www.imperialteagarden.com/collections/white-tea-collection" title="Loose Leaf White Tea Collection | White Tea Health Benefits">white tea</a> flavor profile. Instead the tea noticeably has more body on each sip more like a smooth blend of <a href="https://www.imperialteagarden.com/collections/black-tea-collection" title="Loose Leaf Black Tea | Kenya Black Tea Health Benefits">black tea</a> and <a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Loose Leaf Green Tea Collection | Green Tea Health Benefits">green tea</a>. The tea is produced by plucking leaves on rain-free days, taking care to avoid any purple buds, partially opened leaves, insect damaged leaves, wind damaged leaves or stems that are either too long or too short. Once plucked, the leaves are gently withered until they are slightly green in color - and that’s that. A fabulous tea from the Tuscany of tea - Kenya.<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:   Kericho Region Kenya </p>
+<p>Grade:  Crested Crane Extra Special</p>
+<p>Altitude: 5500 – 6500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Orthodox, Naturally withered and dried, Small batch crafted, Hand sorted.</p>
+<p>Characteristics: Known for its black teas, Kenyan whites offer layers of malty Kenyan pedigree with peachy white notes. The cup is amber with golden green highlights. Very high in polyphenols.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11865844751</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>551300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11865844751</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>551300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11865844751</id>
+      <title>4.25 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>551300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/11865844751</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>551300t-4</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177728836</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/peony-white-needle"/>
+    <title>Peony White Needle</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea3_001.jpg?v=1527704902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            18.00 - 575.00
+            <a href="https://www.imperialteagarden.com/products/peony-white-needle">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Peony White Needle is a premium grade, loose leaf white tea from China. This rare and exotic white tea is from the Chongqing Province.  The needle shaped leaves are covered with delicate hairs that provide the tea connoisseur with a delicate lingering fragrance and fresh sweet mellow taste.  The rules for picking Peony White tea are strictly enforced. Only leaves picked between March 15 and April 10 are used. Harvesting does not commence unless the leaves are dry and void of any morning dew. No leaves are accepted if partially open or damaged in any way.  It is no wonder Peony White Needle ranks so high as a source for powerful </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="A great source of healthy antioxidants from evry cup of green tea"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">antioxidants</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">. With </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Polyphenols in green tea contain many healthy beneficial antioxidants"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">polyphenol</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> levels of 12.5% by dry weight, this is truly a gourmet white tea for the connoisseur and health conscious <br soft="">individuals alike.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Bashan Silver Tip Peony</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics:  This delicate white tea has a clean taste faintly reminiscent of fresh apples. Refreshing with a lovely, lingering flavor.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>sample</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>564300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>1.6 oz. Pouch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>564300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>2.25 oz. Tin</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>564300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku>564300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>2 Lb. Bag</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>564WHSL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177709252</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/panda-pearls"/>
+    <title>Panda Pearls</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea_002.jpg?v=1527704900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            24.00 - 220.00
+            <a href="https://www.imperialteagarden.com/products/panda-pearls">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Panda Pearls are a very rare traditional handmade </span></span><a href="http://www.imperialteagarden.com/White_Tea.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">white tea</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> from the Fujian Provence of China.  Only a few thousand kilos of hand rolled Pai Mu Tan are produced each year and is believed to be a symbol of good luck.   Watch the hand rolled tea buds unfurl and release their mild essence of spring.  </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand formed.</p>
+<p>Characteristics: Tiny hand rolled tea buds unfurl to release their mild springtime tea flavor. The shape is made to resemble Panda bear tears which are a symbol of good luck.</p>
+</div>
+</li>
+<li id="tab3">
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177709252</id>
+      <title>sample</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>590300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177709252</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>590300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177709252</id>
+      <title>5 oz. Tin</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>590300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177709252</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku>590300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177689988</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/star-of-china"/>
+    <title>Star of China</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea_005.jpg?v=1527704915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            14.00 - 225.00
+            <a href="https://www.imperialteagarden.com/products/star-of-china">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Star of China is an excellent rare white tea that is delicate and subtle. Often served at state functions in Beijing, this white tea captivates your imagination.  Each star of China is covered in soft velvety hairs and made from five individual leaf buds, then painstakingly hand tied to form this intriguing white tea. Embrace this luxurious tea with each sip and reap the health benefits white teas have to offer.  Only to be consumed in good company.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Artisan Handcrafted</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional hand tied, Small batch crafted</p>
+<p>Characteristics:  A very delicate green tea taste. Special downy leaves are laboriously hand tied into star shapes.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place 5-9 stars in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the stars will not open properly. <br></span><br>Not Recommended for Iced Tea<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177689988</id>
+      <title>sample</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>565300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177689988</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>565300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177689988</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>565300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177689988</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>565300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177631300</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/snow-dragon"/>
+    <title>Snow Dragon</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea_004.jpg?v=1527704913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            32.00 - 550.00
+            <a href="https://www.imperialteagarden.com/products/snow-dragon">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Snow Dragon white tea is a fine example of what an exquisitely hand crafted what tea should be.  Each dragon is twisted by hand from select downy covered leaf buds.  Hints of jammy pungency are released as the tiny snow dragons roar back to life. Repeated steeping can be yielded from this premium white tea.  Careful inspection of the infused tea leaves reveals why this is such a highly respected white tea by connoisseurs.</span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Artisan Handcrafted</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics:  Hints of delightful jammy pungency are released as the tiny snow dragons roar to life. Each dragon is hand molded from selected downy covered leaves.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177631300</id>
+      <title>sample</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>563300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177631300</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>563300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177631300</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>563300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177631300</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>563300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177631300</id>
+      <title>2 Lb. Bag</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>563WHSLT</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177611588</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/silver-needle"/>
+    <title>2 Doves Silver Needle</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea2_001.jpg?v=1527704848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            16.00 - 295.00
+            <a href="https://www.imperialteagarden.com/products/silver-needle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">2 Doves Silver Needle White Tea is a premium grade, loose leaf white tea from China.  This rare and exquisite white tea is comprised of select leaf buds covered in silky hairs.  One of China's best white teas available with hints of peach and a fresh, and lasting finish.   The flavor is pure pleasure to your palate.  White tea is not mechanically processed.  Tea leaves are harvested and merely air dried. This minimal amount of processing can make white tea have up to three times more beneficial antioxidants than green or black tea.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Silver Needle Special</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics:  A premium tea that has exquisite haunting hints of peach whit a fresh lingering finish. This is one of China‟s best white teas.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p>HOT TEA BREWING:</p>
+<p>Use 1-2 tsp of tea per 10 fluid ounces of water<br>Use water that is 180 F/82 C<br>Steeped 3 -7 minutes<br>Repeat steeping up to 3 times<br><br></p>
+<p><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher</p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177611588</id>
+      <title>sample</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>562300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177611588</id>
+      <title>2 oz. Pouch</title>
+      <s:price currency="USD">53.50</s:price>
+      <s:sku>562300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177611588</id>
+      <title>2.65 oz. Tin</title>
+      <s:price currency="USD">55.75</s:price>
+      <s:sku>562300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177611588</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>562300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9174110852</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/pai-mu-tan"/>
+    <title>Pai Mu Tan</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea2_002.jpg?v=1527704899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            4.00 - 45.00
+            <a href="https://www.imperialteagarden.com/products/pai-mu-tan">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Pai Mu Tan, also known as white peony, is a loose leaf white tea from the Fujian Province of China.  Pai Mu Tan leaves are plucked from a special varietal tea bush called chaicha.  Only the youngest two leaves and the bud are selected from each branch to make this premium tea.  To be selected, leaves must be very light green almost gray/white in color and covered in velvety fuzz.  White tea is a subclass of green tea.  Due to its recent acclaim, however, it has been given a class of its own.  The major distinction is that the buds and select leaves of white tea are merely air dried, rather than steamed or pan fired like other teas.  This minimal amount of processing can make white tea have up to three times more beneficial antioxidants than green or black tea.</span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Spring Grade #1</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics: Clear slightly pale cup with a fresh aroma and a smooth velvety flavor. Delicate jammy notes reminiscent of Keemun or a mild Bordeaux.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+<li>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174110852</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>550300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174110852</id>
+      <title>1.5 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>550300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174110852</id>
+      <title>1.75 oz. Tin</title>
+      <s:price currency="USD">13.75</s:price>
+      <s:sku>550300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174110852</id>
+      <title>1/2 lb. Foil Bag</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>550300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9174082308</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/kenya-silverback"/>
+    <title>Kenya Silverback</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea3_002.jpg?v=1527704889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            10.00 - 135.00
+            <a href="https://www.imperialteagarden.com/products/kenya-silverback">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"><span style="font-size: 18px; line-height: 22px;">First planted with tea in 1903, the majority of Kenya's tea gardens are clustered on the slopes of the Great Rift Valley which produces 22% of the worlds tea exports. Unlike most of the tea produced in the Nandi region, Kenya Silverback is one of the rarest teas in the world with only 600 kgs produced annually.  The tea is only made from the choicest white tips harvested from select plants 5600 ft - 6500 ft above sea level. The fresh leaf is hand plucked, hand rolled and naturally dried resulting in a white tea with a lot of character. The cup opens with notes of honey, roasted nuts and Madagascar vanilla that lead the way to a long smooth finish.  A lot of mouth feel for most white tea connoisseurs.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Kenya, Africa Nandi Highlands</p>
+<p>Grade:  Silver Needle Best Extra Special</p>
+<p>Altitude: 5500 - 6500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Orthodox, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics:  Breathtaking flavor with notes of honey, roasted nuts and Madagascar vanilla.<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. </span></p>
+<p><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span></p>
+<p> </p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174082308</id>
+      <title>sample</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>561300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174082308</id>
+      <title>1.5 oz. Pouch</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>561300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174082308</id>
+      <title>2.5 oz. Tin</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>561300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9174082308</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>561300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9170269508</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/adams-peak"/>
+    <title>Adam&apos;s Peak</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea_001.jpg?v=1527704849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            22.00 - 350.00
+            <a href="https://www.imperialteagarden.com/products/adams-peak">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Adam's Peak is one of the most sacred mountains in the world.  It bares the mark of a giant footprint atop its peak.  This location has the unique distinction of being sacred to four of the worlds major religions. Muslims revere this holy site, for it is believed, Adam stood here on one foot for a thousand years after being exiled from Eden.  Hindus believe it to be the mark of Shiva; and some Portuguese Christians settlers claimed the mark was left by St. Thomas.  While Buddhist believe the real footprint lies beneath, on a bed of sapphire. Thousands of people ascend on a spiritual pilgrimage beginning on the December full moon.  The slopes surrounding this peak are blessed with the some of the most remarkable teas on earth.  The silver tips are  covered with fuzz and reveal a heady aroma, reminiscent of pine and honey.  The subtle taste may only be appreciated by an experienced palate. </span></span><a href="https://www.imperialteagarden.com/pages/cancer" title="Cancer &amp; Green Tea Health Benefits"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Cancer </span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">research has shown this tea has some of the highest known </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Polyphenols found in green tea contain powerful antioxidants  "><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">polyphenol</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> content.  This rare white tea is limited to 1500 kilos per year.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya Sri Lanka</p>
+<p>Grade:  Silver Needle  Extra Special AA</p>
+<p>Altitude: 6000 - 8500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics: Delicate, very light liquoring with notes of pine &amp; honey</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9170269508</id>
+      <title>sample</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>570300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9170269508</id>
+      <title>1.6 oz. Pouch</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>570300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9170269508</id>
+      <title>2.2 oz. Tin</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>570300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9170269508</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>570300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+</feed>

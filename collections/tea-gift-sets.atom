@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/tea-gift-sets.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2016-12-06T17:40:00-05:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649924047</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/herb-tea-gift-set-6"/>
+    <title>Herb &amp; Fruit Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TEA_GIFTS_2974e710-c8d3-4db6-8a10-4ea48ca5336c.jpg?v=1527704877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Herb &amp; Fruit Gift Set - Includes (1) stainless steel tea strainer (3) Tins of loose leaf herb and fruit tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">6 oz. Tin (Very Berry)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin (Cranberry Apple)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin (Lemon Mango)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649924047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HFGFTS6H</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649917327</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/herbal-tea-gift-set-5"/>
+    <title>Herbal Tea Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Gift_Set_ed81e73c-d8dc-4e46-84d8-d48de329889b.jpg?v=1527704878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Herbal Gift Set - Includes (1) stainless steel tea strainer (3) Tins of loose leaf herbal  tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Herbal Tea (Lemon Rooibos)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Herbal Tea (Honeybush)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">1.5 oz. Tin Herbal Tea (Chamomile/Mint)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649917327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>HTGFTS5H</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649913679</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/oolong-tea-gift-set-4"/>
+    <title>Oolong Tea Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Gift_Set_fec6372c-3c60-4108-8cb0-c62292ab25a7.jpg?v=1527704897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Oolong Tea Gift Set - Includes (1) stainless steel tea strainer (3) Tins of loose leaf oolong tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">3.5 oz. Tin Oolong Tea (Oolong Orange Blossom)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Oolong Tea (Se Chung)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Oolong Tea (Ti Kuan Yin)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649913679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>OTGFTS4O</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649883407</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/executive-gift-set"/>
+    <title>Executive Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Gift_Set.jpg?v=1527704869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Executive Gift Set - Includes (1) stainless steel tea strainer and (3) Tins of premium loose leaf white tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">3.5 oz. White Tea (Star of China)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">2.5 oz. White Tea (Kenya Silverback)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">2.25 oz.  White Tea (Peony White Needle)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649883407</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>EXGFTS1E</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649871823</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/tea-gift-set-3"/>
+    <title>Variety Tea Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Gift_Set_7de7a3cd-1ff3-4c6e-9de5-29c9b90db00c.jpg?v=1527704920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Variety Gift Set - Includes (1) stainless steel tea strainer plus (3) Tins of loose leaf tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">5 oz. Tin Green Tea (Moon Swirl)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Black Tea (Bukhial Estate)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Oolong Tea (Ti Kuan Yin)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649871823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>VTGFTS3V</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649792911</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/copy-of-tea-gift-set-1"/>
+    <title>Black Tea Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TEA_GIFTS.jpg?v=1527704853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Black Tea Gift Set - Includes (1) stainless steel tea strainer and (3) Tins of loose leaf black tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Black Tea (Mim Estate)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Black Tea (Bukhial Estate)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">4 oz. Tin Black Tea (Ying Ming Yunan)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649792911</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>BTGFTS2B</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9649790991</id>
+    <published>2016-12-06T17:40:00-05:00</published>
+    <updated>2016-12-06T17:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/tea-gift-set-1"/>
+    <title>Green Tea Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tea_Gift_Set_f3ed40e8-a464-44b0-ab90-a81b0f6e090d.jpg?v=1527704875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">Green Tea Gift Set - Includes (1) stainless steel tea strainer and (3) Tins of loose leaf green tea.</span></span></b></span></p>
+<ul>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">5 oz. Tin Green Tea (Moon Swirl)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">3.5 oz. Tin Green Tea (Jasmine)</span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">3.5 oz. Tin Green Tea (Sencha Fuji)<br></span></span></b></span></li>
+<li><span class="text"><b><span style="font-size: small;" size="2"><span style="font-size: 12px; line-height: 15px;">plus 1 Paris Tea Strainer</span></span></b></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9649790991</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>GTGFTS1G</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9654766479</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/gift-box-1"/>
+    <title>Gift Box</title>
+    <s:type>Tea Ware</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/GBox_003.jpg?v=1527704873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Tea Ware<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add a 4" x 4" x 6" Gift Box to the purchase of any tin.  Comes with gift box and 5 sheets of tissue paper.  Additional bows and wrapping are not included.<!--Start tab content--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Gifts</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9654766479</id>
+      <title>Black</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>BBGFTSGB-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9654766479</id>
+      <title>White</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>WWGFTSGB-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

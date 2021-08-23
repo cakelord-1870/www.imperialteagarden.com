@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/tea-bags.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2016-10-04T19:17:00-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293401988</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/rooibos-herbal-tea-bags"/>
+    <title>Rooibos Herbal Tea Bags</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Rooibos.jpg?v=1527704907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/rooibos-herbal-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4">For over 300 years, Rooibos has been the traditional drink of the indigenous people of Cape Town, South Africa.  The locals harvested the fine needles from wild "Aspalathus Linearis" plants on the slopes of the beautiful Cedarberg Mountains.  They believed this red tea had tremendous healing powers and was regarded as a "miracle tea."  It wasn't until the early 1900's, when commercial exploitation began, that news of this elixir of the mind and body spread.  Each cup of Rooibos tea  contains essential minerals such as Iron, Potassium, Calcium, Copper, Zinc, Magnesium, Manganese, Fluoride, and Sodium.  Rooibos herbal tea is caffeine free and naturally sweet which makes it perfect for relaxing anytime. </span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Cederberg South Africa</p>
+<p>Grade:  Choice Grade #1</p>
+<p>Altitude: 1500 - 2500 feet above sea level</p>
+<p>Manufacture Type:  Traditional process rolled &amp; fermented</p>
+<p>Characteristics:  Fruity with sweet notes</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293401988</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbroobop-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293401988</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbroobot-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293358980</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/peppermint-herbal-tea-bags"/>
+    <title>Peppermint Herbal Tea Bags</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Peppermint.jpg?v=1527704903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/peppermint-herbal-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: 16px; line-height: 19px;">Peppermint is a herb, and therefore as with most herbal tea, is naturally caffeine free.  Peppermint is often consumed after meals to aid digestion.  The oils in peppermint help relieve gas pains, sweeten your breath, and aid the relief of heartburn, stomach ache, and nausea.  It has been around for so long its exact genealogy is obscure, but it's believed to be a hybrid species that evolved from spearmint and water mint.  It was used by the Egyptians over 3,000 years ago and was cultivated as a source of menthol. Peppermint tea is a cool and refreshing beverage after meals or before bedtime.  It also produces a chilling taste sensation when taken over ice.</span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Washington USA</p>
+<p>Grade:  1st Grade, Autumn Harvest, Cut and Sift.</p>
+<p>Altitude: 900 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Traditional process, Small batch crafted, Air and sun dried, Pasteurized.</p>
+<p>Characteristics:  An unforgettable pungent 2nd cut (the Best Cut)</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293358980</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbpeppep-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293358980</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbpeppet-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293317572</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/chamomile-herbal-tea-bags"/>
+    <title>Chamomile Herbal Tea Bags</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Chamomile.jpg?v=1527704856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/chamomile-herbal-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4" face="Arial">Chamomile tea bags offer a delicious after dinner tea or night time beverage because it is naturally caffeine free and soothing.  </span>Chamomile is a natural relaxing herb known to assist those suffering from insomnia on account of its natural properties which promote drowsiness.  It is also known to assist digestive disorders by settling the stomach and calming the nerves.<br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nile River Delta, Egypt</p>
+<p>Grade:  1st Grade</p>
+<p>Altitude: 1 - 500 feet above sea level</p>
+<p>Manufacture Type:  Field Grown Sun Dried</p>
+<p>Characteristics:  Very aromatic with a fruity tending floral flavor.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.<br></span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ NONE - Naturally Caffeine Free<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293317572</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbchamop-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293317572</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbchamot-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293297092</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/jasmine-green-tea-bags"/>
+    <title>Jasmine Green Tea Bags</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Jasmine.jpg?v=1527704884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/jasmine-green-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4">Jasmine green tea is one of the most pleasant and naturally tasting green teas available. This fine tea begins with early harvest tea from the Fujian Province of China.  Only select tea leaves harvested from the middle of March though the middle of may are used. The leaves are steamed and quickly dried to retain their beneficial antioxidants, then fresh May jasmine blossoms are used to decorate and scent this highly prized green tea. The floral aroma is absolutely captivating.  The cup yields a heady bouquet that will evoke memories of a garden in bloom.</span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  FF (Flowery Fannings)</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Orthodox (Traditional leafy), Small batch crafted.  Non-fermented, Traditional hand crafted.</p>
+<p>Characteristics: A green tea with surprising body and a captivating floral character accentuated by specially selected May Jasmine blossoms.</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293297092</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbjasmip-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293297092</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbjasmit-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293269572</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/ceylon-green-tea-bags"/>
+    <title>Ceylon Green Tea Bags</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Ceylon_Green_Tea_Bags.jpg?v=1564597285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            6.00 - 23.00
+            <a href="https://www.imperialteagarden.com/products/ceylon-green-tea-bags">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4">A Ceylon green tea that is smooth with reasonable depth and body.</span><br>
+<div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin: Nuwara, Dimbula &amp; UVA Sri Lanka</p>
+<p>Grade: BOPF (Broken Orange Pekoe Fannings)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type: Orthodox (Traditional Leafy)</p>
+<p>Characteristic: Tending light liquoring, smooth with reasonable depth and body.</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293269572</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbgreenp-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293269572</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbgreent-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293269572</id>
+      <title>250 Tea Bags (Bulk Foil Bag)</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>tbgreent-3</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9293185540</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/earl-grey-tea-bags"/>
+    <title>Earl Grey Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Earl_Grey.jpg?v=1527704867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/earl-grey-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4">Earl Grey is named after its English benefactor, Charles Earl Grey, who for a short time served as Prime Minister (1830 - 1834) under King William IV. The unusual flavoring that makes Earl Grey so special is the oil of Bergamot which comes from the pear shaped citrus grown throughout the Mediterranean. The oil is pressed from the rind and is used for perfume as well as great tasting Earl Grey tea.  The essence of this exotic flavor is blended with only premium high mountain grown Ceylon tea from Nuwara Eliya, Dimbula and Uva districts.  This flavored black tea is sure to delight your senses, and is the perfect accompaniment with cakes and pastries.</span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara, Dimbula &amp; UVA Sri Lanka</p>
+<p>Grade:  BOPF (Broken Orange Pekoe Fannings)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristic: flavorful and aromatic</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293185540</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbearlgp-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9293185540</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbearlgt-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9292979460</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/keemun-black-tea-bags"/>
+    <title>Keemun Black Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Keemun.jpg?v=1527704887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/keemun-black-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4">Of all the black tea in China, Keemun Panda #1 is one of the most popular. Located in the Anhui Provence, Keemun is one of the congou-type teas; meaning it requires a great deal of gongfu (disciplined skill) to make fine taut strips without breaking the leaves.  Interestingly, the characters in written Chinese script are the same for time and labor as those used for gongfu. Properly produced Keemun is one of the finest teas in the world with a complex aromatic character often compared to Burgandy wines. Traditionally, Keemun tea was used as a blending agent for English Breakfast tea and rapidly became an English staple because of its complex yet subtle flavor.</span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Anhui Province China</p>
+<p>Grade:  Panda Grade #1</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Special Keemun Orthodox</p>
+<p>Characteristics: A winey and fruity tea with depth and complexity. Takes milk very well.</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add Milk and sugar to taste. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9292979460</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbkeemup-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9292979460</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbkeemut-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9292841284</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/english-breakfast-tea-bags"/>
+    <title>English Breakfast Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_English_Breakfast.jpg?v=1527704868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/english-breakfast-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Great Britain is forever steeped in tea history.  Consider the events of the Boston Tea Party and the American Revolution, the Opium Wars, the clipper ship races from Fuzchou, China to Portsmouth UK, the Earl of Grey, and of course the English breakfast tradition. This is a blend of high mountain grown Ceylon tea from the regions of Nuwara Eliya, Dumbala, and Uva. English Breakfast tea is full bodied without being overpowering.</span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Sri Lanka, Kenya &amp; India</p>
+<p>Grade:  FP (Flowery Pekoe)</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics: A perfect breakfast tea with good body and full tea flavor notes. Coppery bright–especially enticing with milk.</p>
+<br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add Milk and sugar to taste. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9292841284</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbengbkp-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9292841284</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbengbkt-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9290774212</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/darjeeling-tea-bags"/>
+    <title>Darjeeling Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Darjeeling.jpg?v=1527704862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/darjeeling-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span size="4"><span size="4" color="#990099">Quality peaks during the "second flush," which begins at the end of May and runs through the end of June.  During this time Darjeeling's are incomparable to any other tea in the world.</span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Darjeeling India</p>
+<p>Grade:  FF (Flowery Fannings)</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Orthodox (Traditional leafy), Small batch crafted.  Non-fermented, Traditional hand crafted.</p>
+<p>Characteristics:  Good body with a classic muscatel character. This quality is only available in June when the 2nd flush growing season is at its peak.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9290774212</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbdarjep-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9290774212</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbdarjet-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9290736132</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/assam-black-tea"/>
+    <title>Assam Black Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/TB_Assam.jpg?v=1527704850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 9.00
+            <a href="https://www.imperialteagarden.com/products/assam-black-tea">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: 18px; line-height: 22px;">Assam Black Tea Bags</span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Assam India</p>
+<p>Grade:  BOPF (Broken Orange Pekoe Fannings)</p>
+<p>Altitude: 500 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  The best estate in Assam. The soil conditions and climate produce a mellow and malty brew</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 tea bag for each 10-16oz/285-450ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 8 tea bags into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher. Add ice, top-up with cold water.</span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Bag</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9290736132</id>
+      <title>30 Tea Bags (Pouch)</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>tbassamp-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9290736132</id>
+      <title>40 Tea Bags (Tin)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>tbassamt-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

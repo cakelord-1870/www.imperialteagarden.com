@@ -1,0 +1,2286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/green-tea-collection.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2018-03-20T19:05:09-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/711714177051</id>
+    <published>2018-03-20T19:05:09-04:00</published>
+    <updated>2018-03-20T19:05:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/hojicha"/>
+    <title>Hojicha</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Hojicha.jpg?v=1527704879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 22.00
+            <a href="https://www.imperialteagarden.com/products/hojicha">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>Hojicha is produced using 3rd flush Bancha style leaf known as Sanbancha.  The plucked leaves are steamed and dried similar to Sencha green tea.  However, the leaves are dry roasted over low heat which imparts a sweet and unique taste and fresh aroma of the finished tea. <br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province, China</p>
+<p>Grade:  Uji - Made to Japanese specifications</p>
+<p>Altitude: 800 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented. Traditional small batch</p>
+<p>Characteristics:  Roasted green tea with full bodied character and cinnamon-like toast notes.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 1-2 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Japan</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/711714177051</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>528300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/711714177051</id>
+      <title>1.5 oz. Pouch</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>528300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/711714177051</id>
+      <title>2.0 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>528300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/711714177051</id>
+      <title>1/2 lb. Foil Bag</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>528300t-4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/1339668004966</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/samurai-matcha"/>
+    <title>Samurai Matcha</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Samurai_Matcha.JPG?v=1531333920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div><span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">What was once reserved for ceremonial tea in Japan, Matcha Green Tea has found its way into mainstream life.  Matcha can now be found iced lattes, health shakes, ice cream and baked goods.  With good reason, too!  2 cups of brewed matcha  has 7 times the antioxidants of orange juice and contains nearly 20 grams of Calcium.  The tea bushes are shaded for 3 weeks before harvesting to increase the chlorophyll levels.  The leaves are steamed and dried immediately after harvesting and stripped of all stems and veins.  The pure leaf is stone ground into a fine powder and produces a low caffeinated and high antioxidant green tea.  Samurai matcha green tea is premium example in the art in making a pure Japanese style matcha green tea.<br></span></span></span></div>
+</li>
+</ul>
+<p> </p>
+<ul class="tabs-content">
+<li id="tab2">
+<div>
+<p>Origin: Kagoshima Prefecture Japan</p>
+<p>Grade:  Fine Matcha Green Tea ( 10-16 micron)</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Ground Non fermented Gyokuro Tea</p>
+<p>Characteristics:  Jammy like smoothness with light astringent finish<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> 1/2 tsp per 6-8 oz<br><br><span>BREWING RECOMMENDATIONS:</span> Add 1/2 tsp Matcha green tea to base of cup and add 2 oz of hot water and stir vigorously to make a smooth liquid paste.  Top with additional 4 to 6 oz water or milk</span></p>
+<p> </p>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">ICED TeA Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> 1/2 tsp per 6-8 oz<br><br><span>BREWING RECOMMENDATIONS:</span> Add 1/2 tsp Matcha green tea to base of cup and add 2 oz of hot water and stir vigorously to make a smooth liquid paste.  Top with additional 4 to 6 oz water or milk.  Cool for 30-60 minutes before pouring over ice.<br></span></p>
+<p> </p>
+<p> </p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Japan</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/1339668004966</id>
+      <title>4 oz</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>536300t-1</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/1339558264934</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/izu-matcha"/>
+    <title>Izu Matcha Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/IZU_Matcha_Green_Tea.jpg?v=1531333851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div><span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">What was once reserved for ceremonial tea in Japan, Izu Matcha Green Tea has found its way into mainstream life.  Matcha can now be found iced lattes, health shakes, ice cream and baked goods.  With good reason, too!  2 cups of brewed matcha  has 7 times the antioxidants of orange juice and contains nearly 20 grams of Calcium.  The tea bushes are shaded for 3 weeks before harvesting to increase the chlorophyll levels.  The leaves are steamed and dried immediately after harvesting and stripped of all stems and veins.  The pure leaf is stone ground into a fine powder and produces a low caffeinated and high antioxidant green tea.</span></span></span></div>
+</li>
+</ul>
+<p> </p>
+<ul class="tabs-content">
+<li id="tab2">
+<div>
+<p>Origin:  China, Kenya</p>
+<p>Grade:  Fine Matcha Green Tea ( 10-16 micron)</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Ground Non fermented Gyokuro Tea</p>
+<p>Characteristics:  Jammy like smoothness with light astringent finish<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> 1/2 tsp per 6-8 oz<br><br><span>BREWING RECOMMENDATIONS:</span> Add 1/2 tsp Matcha green tea to base of cup and add 2 oz of hot water and stir vigorously to make a smooth liquid paste.  Top with additional 4 to 6 oz water or milk</span></p>
+<p> </p>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">ICED TeA Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> 1/2 tsp per 6-8 oz<br><br><span>BREWING RECOMMENDATIONS:</span> Add 1/2 tsp Matcha green tea to base of cup and add 2 oz of hot water and stir vigorously to make a smooth liquid paste.  Top with additional 4 to 6 oz water or milk.  Cool for 30-60 minutes before pouring over ice.<br></span></p>
+<p> </p>
+<p> </p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/1339558264934</id>
+      <title>4 oz</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>535300t-1</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/110081114139</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/genmaicha"/>
+    <title>Genmaicha</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Genmaicha.jpg?v=1527704873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 30.00
+            <a href="https://www.imperialteagarden.com/products/genmaicha">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>Genmaicha is a blend of Japanese sencha and toasted rice. During the firing of the rice, some of the kernels pop and look like miniature popcorn kernels, hence the name popcorn tea.  The fresh vegetative character of the green tea is imparted on the cup but is tempered with the bakey character of the toasted rice.  There is a natural sweetness and toasty finish associated with Genmaicha that make it a favorite among green tea drinkers.<br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  China</p>
+<p>Grade:  Genmaicha - Made to Japanese specifications</p>
+<p>Altitude: 1500 - 2500 feet above sea level</p>
+<p>Manufacture Type:  Genmaicha</p>
+<p>Characteristics:  Full green tea flavor combined with bakey character of toasted rice.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 1-2 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Japan</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/110081114139</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>527300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/110081114139</id>
+      <title>3.0 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>527300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/110081114139</id>
+      <title>4.75 oz. Tin</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>527300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/110081114139</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>527300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/76027756571</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/sencha-green-tea"/>
+    <title>Sencha Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Sencha.jpg?v=1527704910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 26.00
+            <a href="https://www.imperialteagarden.com/products/sencha-green-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4"><span style="font-family: Arial; font-size: large;" size="4" face="Arial">The superior quality of this loose leaf green tea comes from the freshly hand picked morning harvest of young leaves from the mountains of Japan. The unfermented leaves are immediately steamed and dried to retain their peak flavor and vibrant green color. This green tea is widely consumed as part of the daily Japanese tea tradition. Japanese green tea is smooth and flavorful with good body when prepared properly.  As with all green teas, careful preparation with water that has cooled to 180 degrees Fahrenheit is a must. </span></span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Kagoshima Prefecture Japan</p>
+<p>Grade:  Sencha</p>
+<p>Altitude: 1500 - 2500 feet above sea level</p>
+<p>Manufacture Type:  Traditional Japanese Sencha green tea</p>
+<p>Characteristics:  Light, smooth green tea with reasonable depth and body. Full green tea flavor.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 1-2 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Japan</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/76027756571</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>526300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/76027756571</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>526300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/76027756571</id>
+      <title>5.25 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>526300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/76027756571</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>526300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9265869252</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/3-flower-burst"/>
+    <title>3 Flower Burst</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/3_flower_Burst.jpg?v=1527704848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<div style="left: 574.917px; top: 656.293px; font-size: 16.6px; font-family: sans-serif; transform: scaleX(0.919199);" data-canvas-width="145.2334"><strong>3 flower burst is an appealing tea for many reasons.The tea is produced by tying Lily, Osmanthus and Jasmine blooms together with full leaves of steamed Yunnan green tea.  Enjoy a pot or two and watch the beauty unfold.  After brewing place the bloom in a wine glass or similar vessel filled with cold and use as a centerpiece for another couple days.  A tea very high in antioxidants make this a healthy beverage.</strong></div>
+<div style="left: 574.917px; top: 656.293px; font-size: 16.6px; font-family: sans-serif; transform: scaleX(0.919199);" data-canvas-width="145.2334"><strong></strong></div>
+<div style="left: 574.917px; top: 656.293px; font-size: 16.6px; font-family: sans-serif; transform: scaleX(0.919199);" data-canvas-width="145.2334"></div>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Yunnan Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional hand tied, Small batch crafted.</p>
+<p>Characteristics:  Smooth and satisfying green tea notes. The peach character of osmanthus comes to the fore with hints of jasmine and lily.</p>
+<p> </p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place one ball in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the tea ball will not open properly. <br><br></span><br>Not recommended for Iced Tea</p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9265869252</id>
+      <title>15 Blossoms</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>542300t-1</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254128452</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/green-tea-mint"/>
+    <title>Green Tea and Mint</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Green_Tea_Mint.jpg?v=1542219960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 26.00
+            <a href="https://www.imperialteagarden.com/products/green-tea-mint">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Green Tea with mint is a blend of Chinese green tea and Washington grown spearmint.  A delicious and healthy green tea beverage that can be enjoyed by everyone.  Try adding freshly cut Ginger root to add a little extra Zing or pour over ice for a deliciously cool summer beverage!</span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China / Washington State USA</p>
+<p>Grade:  Special Chunmee Grade #1/Whole Leaf, Cut (2nd Cut – best cut) and Sifted</p>
+<p>Altitude: 1500 - 4500 feet above sea level/ 900 - 1500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, traditional process, Small batch crafted/Field grown, sun dried, machine milled</p>
+<p>Characteristics: Delicate flavor with toasty notes combined with a fresh minty overtone.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>940300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>940300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>940300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254128452</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>940300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254079940</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/green-tea-with-ginseng"/>
+    <title>Green Tea with Ginseng</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/GT_Ginseng.jpg?v=1527704876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 29.00
+            <a href="https://www.imperialteagarden.com/products/green-tea-with-ginseng">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Green tea with ginseng is a blend of Chinese green tea and Siberian ginseng root.  Two of the most healthy plants known are combined into one delicious beverage.  Enjoy the comfort of knowing that you are supplying your body with healthy nutrients and antioxidants needed to sustain good health.  <a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Enjoy the health benefits from one of our green teas">Green tea</a> is known for its high level of antioxidants that are finally becoming accepted in western health practices.  Siberian ginseng is also well known for its health benefits throughout the far east as a panacea.  ginseng allows the body to better cope with stress and resist fatigue when taken for a period of six weeks or more.  Try green tea with ginseng and rejuvenate yourself.  </span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Special Chunmee Grade #1 with &amp; Organic Eleuthero Root Ginseng</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, traditional process, Small batch crafted.</p>
+<p>Characteristics: Full bodied, delicate flavor with toasty notes. Mellow smokiness lending to sweet tobacco or plum character.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br><br></span><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste</span>.<br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>930300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>930300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>5 oz. Tin</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>930300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254079940</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>930300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9214385860</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/volcano-flower-burst"/>
+    <title>Volcano Flower Burst</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Volcano_Flower.jpg?v=1527704921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Volcano Flower Burst green tea is truly an artisan tea for the tea connoisseur.  Individually hand made from premium Chinese green tea hand tied with hibiscus, lavender and amaranth flowers.  Watch a dazzling spectacle as this tea erupts into an amazing display.  A delicate and intriguing finish </span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Yunnan Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional hand tied, Small batch crafted.</p>
+<p>Characteristics:  Slightly dry character with light floral notes.  Hints of sweet caramel sugar are sprinkled on the finish.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place one ball in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the tea ball will not open properly. <br></span><br><br></p>
+<p>Not Recommended for Iced Tea</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214385860</id>
+      <title>15 Blossoms</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>54200t-1</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9214121988</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/1000-day-flower"/>
+    <title>1000 Day Flower</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/100_Day.jpg?v=1527704846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">1000 Day Flower Burst green tea is truly an artisan tea for the connoisseur.  Individually hand made from premium Fujian Chinese green tea delicately hand tied to an amaranth blossom.  This tea is steeped in its rich Chinese heritage where even today 1000 Day Flower tea is served at birthdays and anniversaries among elders.  A slightly dry character with light floral notes.  Hints of sweet caramel sugar can be <br soft="">savored on the finish.  Each pod can be steeped 2-3 times in a 1.5 L teapot.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional hand tied, Small batch crafted.</p>
+<p>Characteristics:  Slightly dry character with light floral notes.  Hints of sweet caramel sugar are sprinkled on the finish.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place one ball in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the tea ball will not open properly. <br></span><br>Not Recommended for Iced Tea</p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214121988</id>
+      <title>15 Blossoms</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>541300t-1</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9214083844</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/hannah-chrysanthemum"/>
+    <title>Hannah Chrysanthemum</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Hannah.jpg?v=1527704876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: medium;" size="3"><span style="font-size: 16px; line-height: 19px;"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Hannah Chrysanthemum green tea is truly an artisan tea for the connoisseur.  Individually hand made from premium spring harvested Chinese green tea and gently formed over Chrysanthemum flowers. A tea that puts on a superb show as the blossom come back to life when prepared in a glass teapot.  Light, delicate floral bouquet with lasting finish.</span></span></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Yunnan Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional hand tied, Small batch crafted.</p>
+<p>Characteristics: A tea that puts on a superb show.  Chrysanthemum highlights lightly dance through premium spring green tea</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place one ball in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the tea ball will not open properly. <br></span><br><br></p>
+<p>Not Recommended for Iced Tea</p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214083844</id>
+      <title>15 Blossoms</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>549300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9214014532</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/longing-heart"/>
+    <title>Longing Heart</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Longing_Heart.jpg?v=1527704892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Longing Heart green tea is truly an artisan tea for the connoisseur. Individually hand made from premium spring harvested Chinese green tea.  Prepare this tea for someone special and dear to your heart and share the moment as this tea springs back to life and bares a hidden blossom.   A delectable hint of peach dances on your palate</span></span><span style="font-size: medium;" size="3"><span style="font-size: 16px; line-height: 19px;">.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Anhui Province China</p>
+<p>Grade:  Hand Crafted Artisan Tea</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional hand tied, Small batch crafted.</p>
+<p>Characteristics: Your heart unfolds and bares a hidden blossom. A delectable hint of peach dances through the tea</p>
+<p>.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Place one ball in your teapot and add freshly boiled water. <br><br><span>BREWING RECOMMENDATIONS:</span> Infuse until the ball is fully open, usually about 5 minutes. Watch the long leaves unfurl to reveal the hidden flower treasure. Milk and sugar are not recommended. ALERT: You must use boiling water or the tea ball will not open properly. </span><br><br></p>
+<p>Not Recommended for Iced Tea</p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW<br>
+<p> </p>
+</div>
+</li>
+<li>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisan Tea</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9214014532</id>
+      <title>15 Blossoms</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>548300t-1</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213913540</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/green-tea-chai"/>
+    <title>Green Tea Chai</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Green_Tea_Chai.jpg?v=1527704875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.50 - 33.00
+            <a href="https://www.imperialteagarden.com/products/green-tea-chai">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Our green tea chai is an enticing blend of gunpowder green tea (cannon style) and fresh Asian spices for a true masala chai.  Just add milk and sugar and you can experience the national drink of </span></span><a href="http://www.imperialteagarden.com/India.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">India as if it were poured fresh from the local 'tea wadis'.  High Mountain grown tea leaves from Sri Lanka are blended with cinnamon, cardamom, cloves, curry leaves, lemon grass, cumin, sweet cumin, and coriander.  Prepare using 2-4 teaspoons of green tea chai (be sure to shake your bag to evenly mix the masala) per cup and steep 3-5 minutes.  Add milk and sugar to taste.  </span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Independent studies have shown our <a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Antioxidant rich Green Teas from Imperial Tea Garden®">green tea</a> chai blend contains over 12% polyphenols by dry weight.  A delicious source of powerful </span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">antioxidants.</span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya Sri Lanka</p>
+<p>Grade:  Pekoe Gunpowder</p>
+<p>Altitude: 4000 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented,Orthodox Gunpowder</p>
+<p>Characteristics: Superb green tea blended with fresh Asian spices for real green tea chai! Delicious, especially with milk and sugar. </p>
+<p> </p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5-10 minutes. Add milk and sugar to taste. <br><br><span>IDEAL BREWING TEMPERATURE:</span> 100ºC/212ºF. Minimum Brewing Temperature: 90ºC/194ºF.</span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 7 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. <br><br><span>IDEAL BREWING TEMPERATURE:</span> 100ºC/212ºF. Minimum Brewing Temperature: 90ºC/194ºF.</span>
+</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chai</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Sri Lanka</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213913540</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>547300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213913540</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>547300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213913540</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>547300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213913540</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>547300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213802372</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/jasmine-green-tea"/>
+    <title>Jasmine Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Jasmine.jpg?v=1527704884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.50 - 32.00
+            <a href="https://www.imperialteagarden.com/products/jasmine-green-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Jasmine green tea is one of the most pleasant and naturally tasting green teas available. This fine tea begins with early harvest tea from the Fujian Province of China.  Only select tea leaves harvested from the middle of March though the middle of may are used. The leaves are steamed and quickly dried to retain their beneficial antioxidants, then fresh May jasmine blossoms are used to decorate and scent this highly prized green tea. The floral aroma is absolutely captivating.  The cup yields a heady bouquet that will evoke memories of a garden in bloom.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Jasmine Grade #1</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Orthodox (Traditional leafy), Small batch crafted.  Non-fermented, Traditional hand crafted.</p>
+<p>Characteristics: A green tea with surprising body and a captivating floral character accentuated by specially selected May Jasmine blossoms.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213802372</id>
+      <title>sample</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>546300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213802372</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>546300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213802372</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>546300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213802372</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>546300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213778628</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/decaffeinated-green-tea"/>
+    <title>Decaffeinated Sencha Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Decaf_Sencha.jpg?v=1527704864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            6.00 - 43.00
+            <a href="https://www.imperialteagarden.com/products/decaffeinated-green-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Our decaffeinated green tea hails from the Hunan Province of China starts with high mountain grown tea at 3500 feet above sea level.  The tea leaves are then pan fired and  processed as a traditional sencha style tea. No chemical solvents are used to remove the caffeine, which can dramatically affect flavor.   This process relies on circulating naturally occurring CO2, along with high pressure and temperature to extract the caffeine.  As with any decaf tea, there is a slight change in character of the tea due to processing, however, the end result is an uncompromising cup of tea with no chemical overtones.  Sencha decaffeinated green tea has your typical vegetative and grassy flavor and seems less affected by this process than decaffeinated black tea </span> </span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Sencha - Made to Japanese specification</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional steamed, Pan dried and polished.</p>
+<p>Characteristics:  Delicious green character with depth, body and some pungency. Cup tends bright forest green.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ Removed naturally using CO2 <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Decaffeinated Green Tea</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213778628</id>
+      <title>sample</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>533300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213778628</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>533300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213778628</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>533300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213778628</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>533300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213214340</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/peacock-1-organic-green-tea"/>
+    <title>Peacock #1 Organic Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Peacock.jpg?v=1527704901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            5.00 - 35.00
+            <a href="https://www.imperialteagarden.com/products/peacock-1-organic-green-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Organic tea is produced without the use of chemical fertilizers, pesticides and herbicides.  Unfortunately the yield and quality can suffer if good manufacturing techniques are not maintained. Not so with this green tea. USDA certified organic green tea and </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Our organic green tea maintains a high concentration of antioxidants"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">polyphenol</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman"> concentrations measured at 11.6% by dry weight yield a superb source for getting your beneficial </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Our organic green tea is a rich source of powerful antioxidants"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">antioxidants</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">.  Peacock #1 has a delightful fruitiness and slightly vegetative flavor on account of the precise harvesting schedule.  Each spring the leaves are harvested in the early mornings between March and April before the May rains have swelled the the tender leaves and the intense sun has a chance to affect the intrinsic delicate flavor.  </span> </span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Special handmade peacock style</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Certified Organic</p>
+<p>Characteristics:  Some pungency.  Delicious green tea character with delightful fruit-like early season flavor</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213214340</id>
+      <title>sample</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>531300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213214340</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>531300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213214340</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>531300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213214340</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>531300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213196676</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/sencha-fuji-organic-green-tea"/>
+    <title>Sencha Fuji Organic Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Sencha_Fuji.jpg?v=1527704909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 92.00
+            <a href="https://www.imperialteagarden.com/products/sencha-fuji-organic-green-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">This organic green tea hails from the Jianxi Provence of China.  The leaves are steamed and pan-fired in traditional Sencha style with uncompromising Fuji growing techniques.  Delicious green tea pungency with depth and body! This organic green tea is top quality and assured the vegetative and grassy flavor one would expect from a quality organic green tea.  Sencha Fuji Organic Chinese green tea is smooth and flavorful with good body when prepared properly.  </span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Jiangxi Province China</p>
+<p>Grade:  Sencha Special - Made to Japanese specifications</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, Traditional steamed, Pan dried and polished.</p>
+<p>Characteristics:  Delicious green character with depth, body and some pungency. Cup tends bright forest green.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213196676</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>532300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213196676</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>532300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213196676</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>532300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213196676</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>532300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213196676</id>
+      <title>4 Lb. Bag</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>532WHSL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9213043204</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/pin-lin-gunpowder-green-tea"/>
+    <title>Pin Lin Gunpowder Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Pin_Lin_Gunpowder.jpg?v=1527704905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 28.00
+            <a href="https://www.imperialteagarden.com/products/pin-lin-gunpowder-green-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">Taiwan has long been known throughout Asia as producing the best gunpowder green teas and Pin Lin is no exception. This gunpowder green tea exhibits a smooth and satisfying brew with hints of bakiness. Extraordinary manufacturing techniques yield a tea loaded with antioxidants, and polyphenol content which measures at levels over 12%. Today gunpowder green teas make up less than 1% of Americas total tea imports. Treat yourself to a premium gunpowder green tea that hails from Pin Lin - - Taiwan's tea capital. </span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Pin Lin (Taipei County) Taiwan</p>
+<p>Grade:  Gunpowder</p>
+<p>Altitude: 1500 - 2500 feet above sea level</p>
+<p>Manufacture Type:  Traditional Gunpowder</p>
+<p>Characteristics:  A smooth and satisfying cup with dashes of bakiness.  Premium gunpowder that hails from Pin Lin, Taiwan’s tea capital.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Taiwan</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213043204</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>516300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213043204</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>516300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213043204</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>516300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9213043204</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>516300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9212221124</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/tianmu-ming-dynasty"/>
+    <title>Tianmu Ming Dynasty (Organic)</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Tianmu.jpg?v=1527704918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            5.00 - 140.00
+            <a href="https://www.imperialteagarden.com/products/tianmu-ming-dynasty">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: large;" size="4"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Organic tea is produced without the use of chemical fertilizers or pesticides and herbicides. Tianmu Ming Dynasty is manufactured under shou mei principles - Sun dried and subjected to a minimal amount of processing so the teas color and aroma are as close as possible to  freshly harvested tea leaves.  </span><span style="font-size: large;" size="4"></span><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Superb taste and slightly sweet, this organic green tea is exceptionally well graded and certified by the IMO in Weinfelden, Switzerland.   The two peaks of Mt.Tianmu may be famous for their scenery and misty slopes, but drinking this tea will certainly leave a lasting impression.</span></span></span></span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Tianmu Special Grade</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Small batch crafted, Hand sorted.</p>
+<p>Characteristics:  Superb taste with sweet, almost honey-like notes. Deliciously vegetative with expansive flavor.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212221124</id>
+      <title>sample</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>534300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212221124</id>
+      <title>2 oz. Pouch</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>534300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212221124</id>
+      <title>3 oz. Tin</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>534300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212221124</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>534300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212221124</id>
+      <title>2 Lb. Bag</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>534WHSL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9212213956</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/imperial-dragonwell"/>
+    <title>Imperial Dragon Well</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Imperial_Dragonwell_3049a6a9-5528-489e-89df-ffc32a5dce5c.jpg?v=1538591246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            15.00 - 140.00
+            <a href="https://www.imperialteagarden.com/products/imperial-dragonwell">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4"><span style="font-family: Arial; font-size: large;" size="4" face="Arial"><span style="font-size: large;" size="4">Lung Ching Tea, also known as Dragon Well, is produced by hand through a 10 part process.  Grown in the West Lake region in the Zhejiang Province of China, Imperial Dragon well Lung Ching is distinguished by its bright emerald green color, full bodied green tea flavor and flowery notes.  Only the bud and first leaf are used in this premium </span><a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Imperial Dragonwell is part of the green tea collection from Imperial Tea Garden®"><span style="font-size: large;" size="4">green tea</span></a><span style="font-size: large;" size="4">.  Growing conditions and select harvesting make Imperial Dragon Well an exceptional green tea.  Culminated with traditional manufacturing techniques, producing a superior green tea loaded with powerful </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Imperial Dragonwell is a rich source of antioxidants found in green tea"><span style="font-size: large;" size="4">antioxidants</span></a><span style="font-size: large;" size="4">, and </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Polyphenols are powerful antioxidants absorbed when drinking green tea"><span style="font-size: large;" size="4">polyphenols</span></a><span style="font-size: large;" size="4"> that measured at slightly over 10% by dry weight.  Historically, Dragon well Lung Ching tea was given as a gift to emperors and dignitaries, and today, makes an excellent gift for family and friends. </span></span></span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Lung Ching Grade 1</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Steamed green tea and a special 10 part handmade process</p>
+<p>Characteristics:  Full bodied tending astringent (brisk) with a heady bouquet. Full green tea flavor with flowery notes</p>
+<div style="left: 299.033px; top: 600.893px; font-size: 16.6px; font-family: sans-serif;">.</div>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212213956</id>
+      <title>sample</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>527300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212213956</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>527300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212213956</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>527300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212213956</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>527300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9212206404</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/dragonwell-lung-ching"/>
+    <title>Dragonwell Lung Ching</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Dragonwell.jpg?v=1527704865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            12.00 - 120.00
+            <a href="https://www.imperialteagarden.com/products/dragonwell-lung-ching">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4"><span style="font-family: Arial; font-size: large;" size="4" face="Arial">Lung Ching Tea, also known as Dragon Well, is produced by hand through a 10 part process.  Grown in the West Lake region in the Zhejiang Province of China, Dragon Well Lung Ching is distinguished by its bright emerald green color, full bodied green tea flavor and flowery notes.  Only the bud and first leaf are used in this premium green tea.  Careful manufacturing techniques and growing conditions have produced a superior <a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="Green tea collection from Imperial Tea Garden®">green tea</a> loaded with powerful </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Dragon Well Green Tea is a rich source of Antioxidants"><span style="font-family: Arial; font-size: large;" size="4" face="Arial">antioxidants</span></a><span style="font-family: Arial; font-size: large;" size="4" face="Arial">, and </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Polyphenols found in green tea are a rich source of antioxidants"><span style="font-family: Arial; font-size: large;" size="4" face="Arial">polyphenols</span></a><span style="font-family: Arial; font-size: large;" size="4" face="Arial"> that measured at slightly over 10% by dry weight. Historically, Dragon well Lung Ching was given as gifts to emperors and dignitaries, and today, makes an excellent gift for family and friends. </span></span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Lung Ching Grade 2</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Steamed green tea and a special 10 part handmade process</p>
+<p>Characteristics:  Full bodied tending astringent (brisk) with a slight heady bouquet. Full green tea flavor.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212206404</id>
+      <title>sample</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>525300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212206404</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>525300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212206404</id>
+      <title>3.5 oz. Tin</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>525300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9212206404</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>525300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9204638916</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/white-eagle-long-life"/>
+    <title>White Eagle Long Life</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/White_Eagle_Long_Life.jpg?v=1527704922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            8.00 - 55.00
+            <a href="https://www.imperialteagarden.com/products/white-eagle-long-life">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-size: large;" size="4">At 17.65% by dry weight, White Eagle Long Life </span><a href="https://www.imperialteagarden.com/collections/green-tea-collection" title="The green tea collection from Imperial Tea Garden®"><span style="font-size: large;" size="4">green tea</span></a><span style="font-size: large;" size="4"> is one of the highest polyphenol </span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Enjoy the health benefits from green tea by drinking a rich source of antioxidants"><span style="font-size: large;" size="4">antioxidant teas</span></a><span style="font-size: large;" size="4"> on the planet.  The cup is abound with a delicate astringency, however, to the trained palate, notes of honey &amp; orchid like sweetness intermingle.  The unique production method of this Mao Feng tea grown in the Hunan Province of China, is highly regulated to ensure its authenticity. White Eagle Long Life's reputation is preserved in the likes of other great Mao Feng teas such as </span><a href="https://www.imperialteagarden.com/products/imperial-dragonwell" title="Imperial Dragonwell is one of the finest grades of Dragon Well Lung Ching"><span style="font-size: large;" size="4">Dragon Well</span></a><span style="font-size: large;" size="4">. White Eagle long life green tea is unsurpassed in quality.</span></span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Mao Feng</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Traditional</p>
+<p>Characteristics:  Refreshing and delightful. The spring tea has a hint of sweetness followed with a mild astringent finish. An excellent example of an early April tea.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204638916</id>
+      <title>sample</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>522300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204638916</id>
+      <title>2.5 oz. Pouch</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>522300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204638916</id>
+      <title>3.25 oz. Tin</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>522300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204638916</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>522300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9204606020</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/moon-swirl"/>
+    <title>Moon Swirl</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Moon_Swirl.jpg?v=1527704896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 46.00
+            <a href="https://www.imperialteagarden.com/products/moon-swirl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">At 16.65% by dry weight, moon swirl green tea</span></span><a href="http://www.imperialteagarden.com/Green_Tea.html"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> is one of the highest polyphenol </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="One of the best sources of antioxidants rich polyphenols found in green tea"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">antioxidant </span></span><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">teas</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> rated by independent lab tests. The quality of this hand made luxury green tea is evident from the fuzzy white tips that slowly unfurl with each steep.  Moon Swirl White Tip is grown at nearly 5000 feet above sea level in the mountains of the Hunan Province.  The early spring growth is hand plucked from only the top buds and skillfully rolled by hand.  When infused, the grass, wheat, and mild sweetness are well balanced with assertive astringency.  Due to these conditions, only a few thousand kilos are manufactured per year.</span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Hunan Province China</p>
+<p>Grade:  Hand made swirls</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Hand Made</p>
+<p>Characteristics: Excellent tea as evidenced by the white tip! See the spring tea leaves come to life. Lightly astringent with a magnificent green tea profile.<br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204606020</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>521300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204606020</id>
+      <title>3.5 oz. Pouch</title>
+      <s:price currency="USD">13.80</s:price>
+      <s:sku>521300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204606020</id>
+      <title>5 oz. Tin</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>521300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204606020</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>521300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9204565252</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/chunmee"/>
+    <title>Chunmee</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Chunmee.jpg?v=1527704859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 92.00
+            <a href="https://www.imperialteagarden.com/products/chunmee">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Discover this excellent green tea from China's Zhejiang Province.  The shape of the leaves of this special grade tea resemble an eyebrow, hence the word "mee," meaning eyebrow.  The leaves are individually pinched and hand rolled in a traditional fashion, then pan fired. Patience, temperature control, and timing produce a fine jade colored leaf.  This full bodied tea has delicate flavor with toasty undertones. Green teas are best prepared with water that has cooled to 180 degrees Fahrenheit.</span></span></span><br>
+<p> </p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Zhejiang Province China</p>
+<p>Grade:  Special Chunmee Grade #1</p>
+<p>Altitude: 1500 - 4500 feet above sea level</p>
+<p>Manufacture Type:  Non fermented, traditional process, Small batch crafted.</p>
+<p>Characteristics: Full bodied, delicate flavor with toasty notes. Mellow smokiness lending to sweet tobacco or plum character.</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher.</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204565252</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>510300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204565252</id>
+      <title>4.4 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>510300t-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204565252</id>
+      <title>6 oz. Tin</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>510300t-3</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204565252</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>510300t-4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204565252</id>
+      <title>4 lb. Bag</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>510WHSL</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9204464452</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/hyson"/>
+    <title>Hyson</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Hyson.jpg?v=1527704882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            4.00 - 26.00
+            <a href="https://www.imperialteagarden.com/products/hyson">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Hyson means "flourishing spring."  This varietal displays the fresh green character one would expect from an exceptional Chinese tea.  The leaves are pan fired and slightly course, giving this tea good body. This loose leaf green tea is smooth and flavorful when prepared properly.  As with all green teas, proper water temperature is essential for bringing out the true essence of the leaf.  Steep  2-3 minutes in water temperature that does not exceed 180 degrees Fahrenheit.  Excessive temperature and longer steep times can cause green tea to become bitter and astringent.  Enjoy the experience of this satisfying green tea.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Anhui Province China</p>
+<p>Grade:  Young Hyson</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type:  Steamed Green Tea</p>
+<p>Characteristics:  A smooth and satisfying cup with body and full green tea flavor</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher.</span>
+</div>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>Green Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204464452</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>500300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204464452</id>
+      <title>3 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>500300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204464452</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>500300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9204464452</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>500300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+</feed>

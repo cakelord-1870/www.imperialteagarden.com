@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.imperialteagarden.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.imperialteagarden.com/collections/featured-products.atom"/>
+  <title>Imperial Tea Garden®</title>
+  <updated>2016-10-04T19:17:00-04:00</updated>
+  <author>
+    <name>Imperial Tea Garden®</name>
+  </author>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9254207620</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/baja-iced-tea"/>
+    <title>Baja Iced Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Baja_Iced_Tea.jpg?v=1527704852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            4.00 - 86.00
+            <a href="https://www.imperialteagarden.com/products/baja-iced-tea">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">Baja Iced Tea blend is the crown jewel of all natural select tea leaves, carefully blended to consummate the perfect iced tea.  No Additives or Preservatives. Simply the best iced tea available.  Characteristic smoothness from a Chinese black tea, harmoniously blended with the malty characteristics of a premium black tea from India.  This product contains </span><a href="http://www.imperialteagarden.com/greenteacaffeine.html"><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">caffeine</span></a><span style="font-family: Times New Roman; font-size: large;" size="4" face="Times New Roman">.<br></span></span></span></span><br>
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"></span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Nuwara Eliya, Sri Lanka &amp; Anhui Province China</p>
+<p>Grade:  FOP (Flowery Orange Pekoe)</p>
+<p>Altitude: 1500 - 8500 feet above sea level</p>
+<p>Manufacture Type:  Orthodox (Traditional Leafy)</p>
+<p>Characteristics:  Cup has burgundy depth and malty highlights. A thirst quenching finish</p>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<p><span class="light_contents_headerlbl_blue"><span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Add milk and sugar to taste. <br></span><br><br><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pitcher straining the tea. Add ice, top-up with cold water, garnish and sweeten to taste. </span><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ MEDIUM<br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea Collection</s:tag>
+    <s:tag>Blended Tea Collection</s:tag>
+    <s:tag>Iced Tea Collection</s:tag>
+    <s:tag>India</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>sample</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>901300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>3.2 oz. Pouch</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>901300t-2</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>4 oz. Tin</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>901300t-3</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>901300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9254207620</id>
+      <title>4 Lb. Bag</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>901WHSL</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9177728836</id>
+    <published>2016-10-04T19:17:00-04:00</published>
+    <updated>2016-10-04T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/peony-white-needle"/>
+    <title>Peony White Needle</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/tea3_001.jpg?v=1527704902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            18.00 - 575.00
+            <a href="https://www.imperialteagarden.com/products/peony-white-needle">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1"> Description </a></li>
+<li><a href="#tab2"> Grade </a></li>
+<li><a href="#tab3"> Brewing </a></li>
+<li><a href="#tab4"> Caffeine </a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<div>
+<span class="text"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">Peony White Needle is a premium grade, loose leaf white tea from China. This rare and exotic white tea is from the Chongqing Province.  The needle shaped leaves are covered with delicate hairs that provide the tea connoisseur with a delicate lingering fragrance and fresh sweet mellow taste.  The rules for picking Peony White tea are strictly enforced. Only leaves picked between March 15 and April 10 are used. Harvesting does not commence unless the leaves are dry and void of any morning dew. No leaves are accepted if partially open or damaged in any way.  It is no wonder Peony White Needle ranks so high as a source for powerful </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="A great source of healthy antioxidants from evry cup of green tea"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">antioxidants</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">. With </span></span><a href="https://www.imperialteagarden.com/pages/health-benefits-from-drinking-tea" title="Polyphenols in green tea contain many healthy beneficial antioxidants"><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;">polyphenol</span></span></a><span style="font-size: large;" size="4"><span style="font-size: 18px; line-height: 22px;"> levels of 12.5% by dry weight, this is truly a gourmet white tea for the connoisseur and health conscious <br soft="">individuals alike.</span></span></span><br>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab2">
+<div>
+<p>Origin:  Fujian Province China</p>
+<p>Grade:  Bashan Silver Tip Peony</p>
+<p>Altitude: 1500 - 4900 feet above sea level</p>
+<p>Manufacture Type: Non fermented, Traditional process, Naturally withered and dried, Small batch crafted, Hand sorted</p>
+<p>Characteristics:  This delicate white tea has a clean taste faintly reminiscent of fresh apples. Refreshing with a lovely, lingering flavor.</p>
+</div>
+</li>
+<li id="tab3">
+<div>
+<div id="titledlight_contents" style="padding: 10px 20px; display: block;">
+<span class="light_contents_headerlbl_red"><span style="text-transform: uppercase; text-decoration: underline;">Hot Tea Brewing Recommendations:</span><br><span>AMOUNT TO USE:</span> Put 1 slightly heaping teaspoon of loose tea for each 7-9 oz/200-260 ml of water in the teapot. Pour freshly boiled water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 3-7 minutes. Milk and sugar are not recommended. <br></span><br><br><span class="light_contents_headerlbl_blue"><span style="text-transform: uppercase; text-decoration: underline;">Iced Tea Preparation Recommendations:</span><br><span>AMOUNT TO USE:</span> To make 1 L/1 QT, put 6 slightly heaping teaspoons of loose tea into a teapot. Pour 1¼ cups/315ml of boiling water over tea. <br><br><span>BREWING RECOMMENDATIONS:</span> Steep 5 minutes. Fill a serving pitcher 1/4 full with cold water. Pour tea into serving pi</span>tcher</div>
+<p><br><br></p>
+</div>
+</li>
+<li id="tab4">
+<div>Caffeine Level ~ LOW <br>
+<p> </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>China</s:tag>
+    <s:tag>meta-related-collection-white-tea</s:tag>
+    <s:tag>White Tea Collection</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>sample</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>564300t-1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>1.6 oz. Pouch</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>564300t-2</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>2.25 oz. Tin</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>564300t-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>1 lb. Foil Bag</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku>564300t-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9177728836</id>
+      <title>2 Lb. Bag</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>564WHSL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9188922692</id>
+    <published>2016-09-27T13:53:00-04:00</published>
+    <updated>2016-09-27T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/dual-tea-measuring-spoon-1"/>
+    <title>Dual Tea Measuring Spoon</title>
+    <s:type>Tea Ware</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/1166.jpg?v=1527704866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Tea Ware<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This versatile dual tea measuring spoon measures out 1 cup or 1 pot of tea.  Made from 18/8 food grade stainless steel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9188922692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>T1166TMS</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.imperialteagarden.com/products/9185861764</id>
+    <published>2016-09-27T13:53:00-04:00</published>
+    <updated>2016-09-27T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.imperialteagarden.com/products/paris-tea-strainer"/>
+    <title>Paris Tea Strainer</title>
+    <s:type>Tea Ware</s:type>
+    <s:vendor>Imperial Tea Garden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1511/8514/products/Paris_Tea_Strainer.jpg?v=1527704900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial Tea Garden<br>
+        <strong>Type: </strong>Tea Ware<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Paris Tea Strainer is the perfect accessory for your tea service.  Strains any loose leaf particles from your cup when poured from your teapot or use as a brewing device to steep herbs and tea directly in your tea mugs. Made from 18/8 food grade stainless steel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://www.imperialteagarden.com/products/9185861764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>PTSTRAINER</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>
